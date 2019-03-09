@@ -1,0 +1,5236 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+AutoCompletion/Shot/Enabled:True
+AutoCompletion/Shot/Items:0
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:4791
+Cursor/Column:19
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:242
+Words/1:'
+Words/2:'00
+Words/3:'33
+Words/4:'34
+Words/5:'64
+Words/6:'90
+Words/7:'90's
+Words/8:'98
+Words/9:'98's
+Words/10:'aye'
+Words/11:'beer
+Words/12:'colby'
+Words/13:'come'
+Words/14:'donation'
+Words/15:'eat'
+Words/16:'entitlement
+Words/17:'get
+Words/18:'guiet'
+Words/19:'happy
+Words/20:'hi
+Words/21:'high'
+Words/22:'hurry
+Words/23:'i
+Words/24:'idiot
+Words/25:'let's
+Words/26:'listening
+Words/27:'minority
+Words/28:'no'
+Words/29:'operation
+Words/30:'presenation'
+Words/31:'standing
+Words/32:'stay'
+Words/33:'stop'
+Words/34:'that'
+Words/35:'yes'
+Words/36:1's
+Words/37:15th
+Words/38:15yr
+Words/39:1800s
+Words/40:1st
+Words/41:20s
+Words/42:2mi
+Words/43:2mph
+Words/44:2nd
+Words/45:30s
+Words/46:3rd
+Words/47:3rds
+Words/48:40s
+Words/49:4th
+Words/50:5's
+Words/51:50s
+Words/52:50th
+Words/53:55pm
+Words/54:5pm
+Words/55:60s
+Words/56:6b
+Words/57:70s
+Words/58:7yr
+Words/59:80s
+Words/60:8yr
+Words/61:aequalitas
+Words/62:ahh
+Words/63:ahhh
+Words/64:ahhhh
+Words/65:ahhhhh
+Words/66:ahhhhhh
+Words/67:alex
+Words/68:alma
+Words/69:alumn
+Words/70:alumni'
+Words/71:alzheimer's
+Words/72:anyone's
+Words/73:appetit
+Words/74:averill
+Words/75:averill's
+Words/76:aww
+Words/77:awwww
+Words/78:baaaaaaack
+Words/79:babyeeee
+Words/80:beerrrrrrrrrrr
+Words/81:bizhub
+Words/82:bizzaro
+Words/83:blah'
+Words/84:bomb's
+Words/85:bomber'
+Words/86:booo
+Words/87:booooo
+Words/88:boooooo
+Words/89:booooooooooo
+Words/90:boooooooooooooooooooooooooom
+Words/91:bug'
+Words/92:bwaaan
+Words/93:bwak
+Words/94:can'ts
+Words/95:cheeering
+Words/96:clarkschnooble
+Words/97:clarkshnable
+Words/98:co
+Words/99:college'
+Words/100:comput
+Words/101:creeped
+Words/102:cubbies
+Words/103:die'
+Words/104:doctrina
+Words/105:doesnt
+Words/106:doug
+Words/107:dougherty
+Words/108:drrrrr
+Words/109:drrrrrrrr
+Words/110:durrrr
+Words/111:durrrrr
+Words/112:ed
+Words/113:ellie
+Words/114:ellison
+Words/115:elrod
+Words/116:elrod's
+Words/117:else's
+Words/118:eric's
+Words/119:escareno
+Words/120:everyone's
+Words/121:exhaustedly
+Words/122:ferrari
+Words/123:fieldhouse
+Words/124:fooooood
+Words/125:freeeee
+Words/126:friggin
+Words/127:frontside
+Words/128:fuckin
+Words/129:fuckin'
+Words/130:game'
+Words/131:gladice
+Words/132:gladys
+Words/133:gollum's
+Words/134:goooood
+Words/135:grover
+Words/136:handedly
+Words/137:haunting's
+Words/138:hawwww
+Words/139:hee
+Words/140:heeeeee
+Words/141:hisssss
+Words/142:hmmmm
+Words/143:hour'
+Words/144:how'a
+Words/145:how'd
+Words/146:hund
+Words/147:husband'
+Words/148:joci
+Words/149:katz
+Words/150:leonard
+Words/151:lieing
+Words/152:liz
+Words/153:lormir
+Words/154:lovejoy
+Words/155:mailroom
+Words/156:mccracken
+Words/157:mccracken's
+Words/158:mccrackin
+Words/159:mccrackin's
+Words/160:mccraken's
+Words/161:meowwwww
+Words/162:mercedes
+Words/163:misdelivered
+Words/164:mmm
+Words/165:mmmm
+Words/166:morday's
+Words/167:namaste
+Words/168:netflix
+Words/169:nevermind
+Words/170:newbie's
+Words/171:ninnie
+Words/172:nooooo
+Words/173:nooooooo
+Words/174:ole
+Words/175:olson
+Words/176:one's
+Words/177:ooooo
+Words/178:oooooo
+Words/179:ooooooo
+Words/180:photobomb
+Words/181:phylis
+Words/182:phyllis
+Words/183:pjs
+Words/184:poopy
+Words/185:porsche
+Words/186:pre
+Words/187:precog
+Words/188:reframe
+Words/189:report'
+Words/190:robbins
+Words/191:roomie
+Words/192:roomies
+Words/193:runnals
+Words/194:shhhh
+Words/195:shhhhh
+Words/196:shhhhhh
+Words/197:somebody's
+Words/198:soooo
+Words/199:spoogin
+Words/200:steve
+Words/201:surveil
+Words/202:surveils
+Words/203:sweepy
+Words/204:tah
+Words/205:taser
+Words/206:tases
+Words/207:ted's
+Words/208:that'd
+Words/209:togethers
+Words/210:touche
+Words/211:tuggy's
+Words/212:tuggys's
+Words/213:tuggyyyy
+Words/214:uhhh
+Words/215:uhhhh
+Words/216:ummm
+Words/217:un
+Words/218:unholster
+Words/219:unholsters
+Words/220:up'
+Words/221:vecchi
+Words/222:vegitation
+Words/223:ver
+Words/224:waliczek
+Words/225:walkie
+Words/226:walmart
+Words/227:walt
+Words/228:wannna
+Words/229:wanns
+Words/230:watchless
+Words/231:waterville
+Words/232:what'd
+Words/233:where'd
+Words/234:why'ed
+Words/235:why's
+Words/236:wittle
+Words/237:woah
+Words/238:wooooo
+Words/239:wooooooooooo
+Words/240:yay
+Words/241:yeahhhh
+Words/242:yrs
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,Campus Bombers Never Miss Reunion
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nDan Spurgin
+#Title-String 15.000000,248.460000,12,,Courier,,785/550-0685\ndan@hype7.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\INT. Hidden Bomb (Present Day)
+..Timer on massive bomb counts down from 2 hours.
+._narrator (V.O.)
+>:They say the friends you make in
+>:college are the best friends you'll
+>:ever have. I've found this to be
+>:true, although I didn't meet my
+>:college friends until 15 years
+>:after we graduated. This is the
+>:bomb that blew us up right after we
+.:met.
+.\INT. Corporate Offices - Bathroom - DAY
+..YOUNGER SUBORDINATE and OLDER SUBORDINATES pee.
+._YOUNGER Subordinate
+>:Why'd you invite him? It's called
+>:'Happy Hour', not 'Get Creeped Out
+.:By Your Reclusive Boss Hour'.
+._Older Subordinate
+>:Relax. He won't come. He never
+.:comes. He's too afraid.
+>.Inside stall, LANCE WALICZEK (NARRATOR), 30s, handsome,
+..expensive executive suit, sits on toilet in frozen terror.
+._LANCE (V.O.)
+>:That's me. The terrified guy on the
+.:toilet.
+.\EXT. corporate offices - Main Entrance - DAY
+..Lance exits, walks across enormous, empty parking lot.
+.\EXT. UPSCALE suburban neighborhood - DAY
+..Lance talks to himself as he walks.
+._Lance
+.:I'm not too afraid.
+>.5TH GRADER #1 & #2, schoolboys in uniform, hang out on
+>.porch. Lance sees boys, breaks eye contact, quickens pace.
+..5th Graders stand, follow Lance. Lance peeks back.
+._LANCE
+.((high pitched cry)
+.:Ahh!
+..Lance bolts.
+._5th Grader #1
+.:Get him!
+.\EXT. wealthy house - day
+>.Lance frantically tries to unlock front door. 5th Graders
+..rush toward him over perfectly landscaped lawn.
+.\Inside House
+>.Lance bursts inside. Slams and locks door. He exhaustedly
+..slides to floor. 5th Graders scream through mail slot.
+._5th Grader #1 (O.S.)
+.:We know you're in there!
+._5th Grader #2 (O.S.)
+.:We know where you live!
+>.Lance notices mail on floor, picks up reunion invite. It's
+..been misdelivered multiple times.
+._LANCE (V.O.)
+>:My co-workers were right. I was too
+>:afraid. Of everything. And if I
+>:didn't do something un-me like
+>:soon, I was gonna be afraid for the
+.:rest of my life.
+.\Roll OPENING CREDITS
+>.Reunion invites travel from Colby, through postal system, to
+>.a variety of mail receptacles. A variety of hands grab
+>.invites. One invite is read, another is used as coffee
+>.coaster, and so on. The last invite is dropped into a public
+..trash can onto a bowl of 1/2 eaten mac-n-cheese.
+.\EXT. downtown portland sidewalk - Day
+>.RECENT COLBY GRAD, 20s, professional woman, walks through
+..rain with umbrella emblazoned with the word COLBY.
+._Eric (O.S.)
+.:Did you go to Colby?
+>.ERIC DAVIS, 30s, homeless man, pulls discarded mac-n-cheese
+..out of public trash can, eats. 
+._Recent Grad
+.:I don't have any money.
+._Eric
+>:No. Your umbrella. Did you go to
+.:Colby?
+._Recent Grad
+.:Yes.
+._Eric
+.:Me too! Class of '98!
+>.Eric pulls up many layers of heavily soiled clothes to
+..reveal tattered "Colby" t-shirt.
+._Recent Grad
+.:Disgusting!
+.((points at umbrella)
+>:This isn't Colby Sawyer in New
+>:Hampshire. It's the small ivy
+.:league college in Waterville.
+._Eric
+.:I know! That's where I went!
+._Recent Grad
+>:You went to Colby College in
+.:Waterville, Maine?
+._Eric
+.:Fellow alumni.
+._Recent Grad
+>:We're not fellow anything. You
+.:didn't go to my college.
+._Eric
+>:Your college? Sorry to break it to
+.:you, but Colby's my college too.
+._Recent Grad
+>:Sorry to break it to you, but look
+>:at you. It's not yours anymore. And
+>:since you want money so badly
+>:here's a tip: pretending you went
+.:to college makes you look ignorant.
+..Recent Grad walks off. Eric talks to himself.
+._Eric
+.:Ignorant?
+._Recent Grad
+>:Quit harassing me. I don't have any
+.:money.
+._Eric
+.:I didn't ask for money.
+._Recent Grad
+>:Lay off! I don't have any money,
+.:jerk!
+..Eric reaches into trash, pulls out soiled reunion invite.
+.\EXT. mom's house - day
+>.PERCY RODGERS, 30s, pudgy, wheels his kids suitcase across
+..front yard. Percy halts, hollers back at screen door.
+._Percy
+.:Don't try and stop me, mom!
+._Mom (O.S.)
+.:Okay dear. Have fun.
+._Percy
+>:Mom. I don't think you understand
+>:the gravity of this situation. I'm
+.:really running away this time.
+._Mom (O.S.)
+.:36 year olds can't run away, dear. 
+._Percy
+.:Quit telling me what I can't do!
+._Mom (O.S.)
+>:You're right, baby. I'm sorry. You
+>:can do anything you set your mind
+>:to. Just make sure you're back in
+.:time for dinner, okay? I love you.
+..Hear FRONT DOOR SHUT.
+._Percy
+>:I'm not just gonna hide behind a
+.:tree this time, Mom! Mom?
+>.Percy walks to edge of yard, pulls reunion invite out of
+..pocket, considers it, looks back.
+._Percy
+.:I love you too, Mom.
+.\INT. Colby Alumni call centeR - Day
+>.Room filled with callers in cubicles. ASSISTANT, ELIZABETH
+>.BROWN, 60s, is only caller not on phone. DEAN OF ALUMNI
+..RELATIONS, PHYLLIS MCCRACKEN, 40s, looms over Assistant.
+._Dean McCracken
+>:Get back on the phone! You're
+.:costing me money!
+..Assistant holds up a pledge card.
+._Assistant
+.:$1,000 seems really high.
+._Dean McCracken
+>:I didn't realize you were the
+.:expert on what people could afford.
+._Assistant
+.:I'm not but--
+._Dean McCracken
+>:These high pledge amounts you're
+>:whining about. That call script
+>:you're reading. They were
+>:scientifically calculated by
+>:computers. Maybe you think you're
+.:smarter than computers?
+._Assistant
+.:No, but I--
+._Dean McCracken
+>:That's interesting. Everyone who
+>:wants to keep their job is on the
+.:phone right now.
+.\INT. Corporate mailroom - day
+>.ARTHUR "TUGGY" GALE, 30s, jeans, sneakers, overly loved
+>.'Colby' sweatshirt. He stuffs letters into wall of mail
+..slots. His phone rings. Tuggy stealthily answers.
+._tuggy
+.:Colby? 
+.\INTERCUT BETWEEN ASSISTANT and TUGGY
+..Assistant reads mechanically from script.
+._Assistant
+>:Hi. I'm calling from Colby College.
+.:I wanted to remind Mr. Arthur--
+._Tuggy
+>:Woah. It's Tuggy. Call me, Tuggy.
+.:Elizabeth? Is that you?
+..Assistant steals a glance at hovering Dean McCracken.
+._ASSISTANT
+.:Yes.
+._Tuggy
+>:How are you?! Can you believe it's
+>:been 5 years? It seems like the 10
+>:year reunion was just yesterday. Am
+>:I gonna get to see you when I come
+.:up?
+._Assistant
+.:I'll be here.
+..Dean McCracken gesticulates angrily, whisper yells.
+._Dean McCracken
+.:Stick to the script!
+._aSSISTANT
+>:I mean.... I wanted to remind you
+>:that your 15 year reunion is coming
+.:up.
+._Tuggy
+>:Let me speed this up for you, Liz. 
+.:Yes, I'm still a lion tamer.
+>.COPY LADY, 30s, special needs, stands behind bizhub, stares
+..at Tuggy in disbelief. Tuggy winks at her as he continues. 
+._Tuggy
+>:Yes, I did receive my invitation to
+>:the 15 year reunion. Yes, I will be
+>:attending. And no, I won't be
+.:giving a dime to Colby College.
+>.Assistant loses place. Dean McCracken gestures angrily.
+..Panicked Assistant picks random spot in script.
+._Assistant
+>:Uh... Did you know Colby College is
+>:a prestigious liberal arts college
+.:with an enrollment of 1825...
+._Dean McCracken
+>:That's the wrong section, you
+.:idiot! 
+._Tuggy
+>:I did know that. Remember how I
+>:went to Colby? She's watching you,
+.:isn't she? Cough if she's there.
+._ASSISTANT
+.((cough)
+>.Dean McCracken looks at Assistant suspiciously, presses
+..speakerphone button.
+._tuggy
+>:Just in case this call is being 
+.:monitored for quality assurance.
+._Dean McCracken
+.((whispered disgust)
+.:Tuggy.
+._Tuggy
+>:I can't in good conscience donate
+>:to a business, yes I called Colby a
+>:business, that relentlessly begs
+>:money from poor people like me when
+>:it already has over 1 billion
+.:dollars in its endowment. 
+._Dean McCracken
+.:The nerve.
+._Tuggy
+>:Excuse me? Is someone there? As I
+>:do every reunion, I'll be
+>:encouraging my classmates to
+>:redirect their Colby donations to
+>:my alternative fund raising
+>:campaign which gives 100% of its
+.:proceeds to actual poor people!
+>.Dean McCracken pushes Assistant to the ground, takes over
+..seat, yells into speaker phone. 
+._Dean McCracken
+.:How dare you!
+._Tuggy
+.:There she is.
+._Dean McCracken
+.:You ungrateful loser!
+._Tuggy
+>:Wow. You're really good with
+.:alumni. Can I give you some money.
+._Dean McCracken
+>:You just keep pushing, don't you?
+>:You've got no idea what I'm capable
+.:of, Arthur.
+._Tuggy
+>:It's Tuggy. And that's a good
+.:question. What are you capable of?
+>.Dean McCracken violently hangs up. Callers, now off phones,
+>.stare at her. Dean McCracken throws Assistant's pledge cards
+..across the room. 
+._Dean McCracken
+>:Pick those up! And why aren't you
+.:people on the phone?!
+.\EXT. Interstate On-Ramp - DAY
+>.Eric holds cardboard sign: NEED RIDE TO COLLEGE REUNION. Car
+..pulls over.
+._Ride GIVER
+.:That's funny. Hop in.
+.\EXT. DRIVEWAY - Day
+>.Lance, tailored suit, carries too much luggage past parked
+..Porsche 911. Approaches taxi idling at the curb.
+.\EXT. interstate 95 - montage
+>.Tuggy drives rusting pickup on endless highway lined with
+..majestic eastern white pines.  He pushes in cassette tape.
+..MUSIC CUE: Choral version of Colby's alma mater.
+|.- Percy looks out bus window. 
+|.- Lance looks out taxi window. 
+..- Eric looks out car window.
+.\EXT. interstate 95, Waterville Maine Exit - Day
+>.Eric dropped off next to green info sign: COLBY COLLEGE -
+>.2MI. The iconic spire of Colby's Miller Library towers above
+..the distant treeline.
+.\EXT. Campus Lawn - day
+>.Assistant drives Dean McCracken in golf cart. Dean McCracken
+..snaps, points at ground. 
+._Dean McCracken
+.:Brown spot. Brown spot!
+..Assistant stops cart, gets out, sprays green paint on spot.
+._Dean McCracken
+>:While you're out put a deer and a
+.:couple squirrels up by that tree.
+>.Back of cart is filled with fake woodland animals. Assistant
+>.wrestles with plastic deer. The voice of SECURITY GUARD TED,
+..60s, crackles over Dean McCracken's walkie-talkie.
+._Security Ted (V.O.)
+.:We've spotted dirty rat.
+.\EXT. aDMINISTRATION BUILDING parking lot - DAY
+>.Security Ted, and SECURITY GUARD ROOKIE, 20s, slowly
+..approach plain white van. 
+.\inside VAN
+>.Back is filled with surveillance equipment. CAMPUS BOMBER,
+..30s, watches building through binoculars.
+.\INTERCUT BETWEEN SECURITY AND campus bomber
+..Security Ted whispers loudly into shoulder radio.
+._Security Ted
+.:Repeat. Dirty rat's been spotted.
+._Dean McCracken (v.o.)
+>:I don't need play-by-play details,
+.:you idiots! Move in!
+>.Security Rookie unholsters taser. Campus Bomber lowers
+>.binoculars, spots security. He closes his eyes, shakes head,
+..puts hands up. Security Ted lunges... under van.
+.\UNDERNEATH VAN
+..Security Ted flounders on stomach and gropes for something.
+._Security Ted
+.:Come here, cat!
+.\Security Ted's pov
+>.CAT, 15 years old, covered in mattes, hisses. Soiled collar
+..is only indication cat is not wild. Cat darts off.
+.\inside van
+..LOUD NOISES below van. Campus Bomber opens eyes.
+._Security Ted (O.S.)
+.:He's going out the front!
+>.Campus Bomber watches Security Rookie chase escaping Cat.
+>.Security Ted pops up, lumbers after them. Campus Bomber
+..slowly lowers hands.
+.\aDMINISTRATION BUILDING parking lot
+>.Campus bomber starts van, peels out. Security doesn't
+..notice.
+._Dean McCracken (V.O.)
+.:What's happening!?
+._Security Ted
+.:He got away.
+.\EXT. Campus Lawn - day
+>.Dean McCracken hollers into walkie-talkie as Assistant
+..drives golf cart.
+._Dean McCracken
+>:You imbeciles! Who's gonna donate
+>:money when some mangy cat's peeing
+.:all over campus!
+..She slams walkie-talkie down.
+._ASSISTANT
+>:Maybe it's not the cat? Sometimes
+.:grass just dies.
+._DEAN McCracken
+.:Not on my campus it doesn't!
+..They arrive at Student Union, park.
+.\INT. Hidden Bomb
+..Bomb timer continues count down.
+.\INT. student union lobby - DAY
+>.Decorated for reunion. Assistant sits behind table filled
+>.with bins of registration packets.  Lance stands at table
+..while Assistant types into laptop.
+._ASSISTANT
+>:Lance Waliczek, class of '98,
+.:right?
+._Lance
+.:Yes.
+._assistant
+>:Our system must be on the fritz
+.:again.
+..Dean McCracken walks up with clipboard.
+._Dean McCracken
+>:Have you ever made a donation to
+.:the college?
+._Lance
+.:No.
+._Dean McCracken
+.:That's why you can't find him.
+..Assistant flashes disagreeing look.
+._Dean McCracken
+>:And since you couldn't be bothered
+>:to preregister, you'll have to stay
+>:off campus.  Your class dorm is
+.:full.
+._ASSISTANT
+.:It is? 
+._Lance
+>:I apologize for causing any
+>:problems. I never do things last
+>:minute like this. I'll pay any late
+.:fee you need to charge me.
+._ASSISTANT
+.:That's okay. We don't have any--
+._Dean McCracken
+.:It's $25. I mean $50.
+._Lance
+.:I understand.
+._Dean McCracken
+>:Of course it's $100 if you stay in
+>:the dorms. Let me check my room
+>:list one more time. I'd hate have
+>:you stuck downtown while everybody
+.:else is up on campus having fun.
+.((barely scans clipboard)
+>:How'd I miss this.  We've got 1
+.:room left.
+..Assistant flashes skeptical look.
+._Dean McCracken
+.:It's a quad, though. $500 a night?
+._Lance
+.:I'll take it.
+._Dean McCracken
+>:And of course you'll make a
+.:donation to the college.
+._Lance
+.:Is that what everyone else does?
+..Assistant and Dean McCracken answer at the same time.
+._ASSISTANT
+.:No.
+._Dean McCracken
+.:Yes!
+..Dean McCracken glares at Assistant.
+._Lance
+.:How much do people normally give?
+._Dean McCracken
+>:It can vary but typically... two
+.:thousand dollars?
+._Lance
+.:Okay.
+._Dean McCracken
+>:Okay! $2000! Get this gentleman a
+.:packet!
+._ASSISTANT
+.:But the computer's still--
+._DEAN MCCRACKEN
+.:Now!
+>.Moments later out-of-breath Assistant shoves armful of 
+..materials into packet, hands to Lance.
+._assistant
+.:You might want one of these too.
+..Hands Lance a campus map.
+._Lance
+>:Thank-you. Everything looks so
+.:different.
+._Assistant
+>:There's been a lot of construction
+.:in the last 15 years.
+._Lance
+>:When did this new student center
+.:get built? 
+._Dean McCracken
+.:1925.
+..Dean McCracken scowls suspiciously. Lance is flustered.
+._Assistant
+>:But it's been completely
+.:remodelled.
+._Lance
+.:That would explain it.
+..Lance leaves. Dean McCracken smiles and waves.
+._Dean McCracken
+.:Enjoy reunion!
+.((quietly to self)
+.:You'll be billed for the map.
+..Percy steps forward.
+._Percy
+.:Percy Ellison. Class of '98. 
+..Dean McCracken and Assistant don't notice Percy.
+._Percy
+.((clear throat)
+>:Percy Ellison. I'd like to
+.:register, please.
+..Still no response. Dean McCracken turns to Assistant. 
+._Dean McCracken
+>:It's dead in here. I'm going back
+>:to the office. Why don't you run
+>:over to the printers and pick up an
+>:order for me. And no looking! It's
+.:private! Got it? Now go. Fetch.
+..Dean McCracken leaves. Assistant follows. Percy is alone.
+.\EXT. Colby College MAIN ENTRANCE - DAY
+..Eric walks under temporary banner: "WELCOME HOME ALUMNI". 
+.\EXT. campus Sidewalk - DAY
+>.Lance puzzles over campus map. An engine REVS. Lance looks
+>.up, sees pickup facing him in nearby parking lot. Pickup
+>.lurches onto sidewalk. Lance leaps back, falls. Tuggy, in
+..ragged "Colby" sweatshirt, leans out truck.
+._TUGGY
+.:You look lost. Need help?
+._Lance
+.:No, thank-you.
+._TUGGY
+.:Lots of changes, right?
+._Lance
+>:Are you allowed to drive on the
+.:sidewalk?
+._TUGGY
+.:No. High five!
+>.Tuggy holds hand out until Lance gets to his feet and meekly
+..high fives.
+._TUGGY
+.:Lance Waliczek?! Class of '98?!
+._Lance
+.((smiles)
+.:Yes. Do you know me?
+._TUGGY
+>:No. I read your nametag. I'm Tuggy.
+>:Also class of '98. I'm sure we hung
+.:out at some point.
+._LANCE
+>:I didn't hang out much when I went
+.:here.
+._TUGGY
+>:Well we can hang out now. Hop in. 
+>:I'll give you ride to the class
+.:dorm.
+._Lance
+.:I prefer to walk.
+._TUGGY
+>:I get it. Beautiful day. Here. 
+.:Take one.
+>.Tuggy hands Lance a green envelope. It reads "Tuggy's 15th
+..Reunion Alternative Fund Drive".
+._Tuggy
+.:See you over there, Lance.
+>.Tuggy drives off. Lance goes back to reading map. Tuggy
+..SCREECHES to halt.
+._tuggy
+>:By the way... our dorm's right
+.:behind you.
+>.Lance turns around and sees dorm with banner above entrance:
+..WELCOME CLASS OF '98. Tuggy honks repeatedly.
+._CLASSMATES (O.S.)
+.:Tuggy!
+.\INT. Dorm room - DAY
+>.Lance's clothes arranged perfectly spaced in dorm armoire.
+>.Lance methodically orders each item in packet on desk. KEY
+>.TURNING in lock startles Lance. Tuggy bursts in with ratty
+..backpack and armload of ratty clothes.
+._TUGGY
+.:Lance?! What's up, roomie!
+._Lance
+>:They didn't tell me I was going to
+.:have a roommate.
+._TUGGY
+>:That's because I didn't tell them. 
+.:I don't do registration.
+._LANCE
+.:Don't you have to register?
+._TUGGY
+>:My parents paid Colby over
+.:$100,000. I think I'm registered.
+._Lance
+.:How'd you get in?
+._TUGGY
+>:Master key. Look. You didn't come
+>:to reunion to hang out by yourself,
+.:did you?
+._Lance
+.:No.
+._TUGGY
+.:So win-win. Top bunk!
+..Tuggy flings clothes onto top bunk.
+.\INT. Dorm upstairs hallway - DAY
+>.Percy walks down empty hallway. He overhears classmates
+..conversing in a room, approaches open door.
+._Percy
+.:Hey guys.
+..Door slams on Percy.
+.\EXT. Dorm - DAY
+>.Eric walking. Pull out to see Security Ted and Security
+>.Rookie tailing Eric in golf cart. As Eric nears dorm,
+..Security Rookie jumps out, unholsters taser. Alumni gather.
+._TUGGY (O.S.)
+.:Eric Davis?!
+..Tuggy is leaning out dorm window. 
+._Tuggy
+.:Don't move! I'm coming down!
+._Eric
+.:I don't think I'm going anywhere.
+>.Eric is surrounded. Tuggy explodes out door, pushes through
+..crowd, gives Eric a bear hug.
+._TUGGY
+>:Eric! Look at you! You look...
+.:great! So the rumors are true, huh?
+._ERIC
+.:What? That I'm homeless?
+._TUGGY
+.:No. That you... got into medicine.
+._ERIC
+.:Cardiac surgeon. That's me.
+..Tuggy & Eric laugh. Tuggy hugs him again.
+._TUGGY
+.:I can't believe you made it, man!
+._Eric
+>:I wouldn't exactly say I've made
+.:it.
+..Security Ted pushes Rookie's taser down.
+._Tuggy
+.:Dude. You're staying in my room.
+>.Lance watches from the window, winces. Tuggy puts arm around
+..Eric, walks him into dorm. CLASSMATE #1 & #2 watch them.
+._CLASSMATE #1
+>:Of course he knows the homeless
+.:guy.
+._CLASSMATE #2
+>:Looks like another Tuggy fund drive
+.:is under way.
+.\INT. Dorm room - DAY
+..Tuggy exuberantly pulls Eric into room.
+._TUGGY
+.:You guys remember each other?
+._Eric & Lance
+.:No.
+._Tuggy
+>:Lance meet Eric, my oldest Colby
+>:friend. Eric meet Lance, my newest
+.:Colby friend.
+._Eric & Lance
+.:He's in our class?
+>.Eric offers his hand. Lance apprehensively shakes. Percy
+..appears in doorway.
+._Percy
+.:Hey guys.
+..No one responds. Encouraged, Percy slips into room.
+._TUGGY
+.:Too bad Craig can't be here.
+._Lance
+.:Who's Craig?
+._Eric
+>:Our classmate, Craig Olson? The guy
+>:who died in the motorcycle
+.:accident.
+._Lance
+.:That's awful.
+._Eric
+>:It could have been worse. He could
+.:still be alive.
+._TUGGY
+.:Or maybe Craig can be here!
+..Tuggy pulls golden urn out of backpack.
+._Eric
+>:Tuggy, tell me you didn't dig Craig
+.:up on the way to reunion.
+._TUGGY
+>:Of course I didn't. I'm not a
+.:freak. 
+._Lance
+>:You brought a dead person to
+.:reunion?
+._Eric
+.:Why do you have Craig's ashes?
+._Eric
+>:His mom gave them to me after the
+>:funeral. She asked me to spread
+.:them around campus.
+._Eric
+>:Tuggy, Craig died 14 years ago.
+>:Don't you think you should have
+.:scattered them by now?
+._TUGGY
+>:What makes you the expert on what
+.:to do with dead people?
+._Eric
+.:You don't wanna know.
+>.Tuggy heaves urn and backpack onto last open bunk bed which
+..Percy was about to claim.
+._PERCY
+.:I'll just sleep on the floor.
+..Lance's WRIST WATCH talks in seductive female voice.
+._WRIST Watch
+.:Welcoming party in 5 minutes.
+..Lance speaks into his watch.
+._LANCE
+.:Thank-you.
+._WRIST Watch
+.:Welcoming party in 5 minutes.
+._LANCE
+.:Thank-you, watch.
+._WRIST Watch
+.:Welcoming party in 5 minutes.
+..Lance frantically pushes watch buttons.
+._LANCE
+.:Please stop.
+..Watch stops. Tuggy and Eric stare blankly at Lance.
+._Lance
+.:My watch is synched to my calendar.
+._tuggy
+.:Of course it is.
+..Eric shows exceedingly dirty, watchless wrist.
+._Eric
+>:Who doesn't synch their watch with
+.:their calendar?
+._LANCE
+.:I better go.
+>.Lance turns to leave. Tuggy puts arm around Lance, pulls him
+..back. Puts other arm around Eric.
+._TUGGY
+>:Lance is right. It's time to go.
+>:For the next 40 hours we aren't
+.:just college students.
+._Eric
+.:Tuggy, we aren't college students.
+._Tuggy
+>:Exactly. We're college roommates!
+.:To the welcoming party, roomies!
+..Tuggy steers group towards door. Percy follows.
+.\INT. Dorm Lobby - dusk
+.\Welcome Table
+>.Large common room decorated as class of '98 reunion
+>.headquarters. CLASS PRESIDENT JUDE greets classmates at
+..check-in table.
+>.DR. MATTHEW MORDAY stands on other side of table with
+..PERFECT WIFE, PERFECT SON, and FREEDOM the Golden Retriever.
+._Dr. Morday
+>:Who's the most talented doctor in
+.:the world?
+..Freedom BARKS. 
+._Perfect Wife & Perfect Son
+.:You are!
+>.Dr. Morday pats Freedom, kisses Perfect Wife, and gives
+..Perfect Son a dollar.
+._Dr. Morday
+.:Come.
+>.Dr. Morday gives 'Come' hand signal, walks off. Family
+..obediently follows. 
+._Lance
+.:Who was that?
+._Eric
+>:A conceited jerk. You'd be better
+>:off hanging out with a homeless
+>:guy. Oh. I see you've taken my
+.:advice.
+._Jude
+.:Welcome to reunion, gentlemen.
+._tuggy
+.:Jude!
+>.Tuggy high fives Jude. He grabs 4 HELLO MY NAME IS stickers,
+..fills them out.
+._Jude
+>:Tuggy, this party is for...
+.:classmates only.
+..Jude points at Eric. Tuggy slaps 1st sticker onto Lance.
+._TUGGY
+>:Are you talking about Lance? He's
+.:in our class.
+._Jude
+.:No. Not. Nevermind.
+>.Tuggy slaps 2nd sticker on himself, 3rd on Eric. Percy holds
+>.hand out for 4th sticker but Tuggy places it in his pocket
+..instead. 4th sticker reads: CRAIG OLSON 
+._Jude
+>:Would any of you like to donate to
+.:Colby?
+._ERIC
+.:Thanks.
+._JUDE
+.:Not you.
+>.Jude and Eric have a small tug-o-war over envelope. Eric
+..prevails, stashes it in his dirty clothes.
+._TUGGY
+.:Do you mind if I grab a couple?
+._JUDE
+.:That'd be great!
+..Tuggy grabs box, empties every blue envelope into trash.
+._Jude
+.:Tuggy.
+._TUGGY
+>:Jude, I know how badly Colby needs
+.:money but...
+>.Tuggy pulls out a wad of green envelopes, places them into
+..box, sets on table. Tuggy offers Jude a green envelope.
+._TUGGY
+>:It seems like poor people could use
+.:the money a little more.
+._Jude
+.:Fine. Give me one.
+._TUGGY
+.:Alright gentlemen, let's mingle!
+>.Roomies walk off. Percy fills out his own sticker. Percy
+>.notices sign that reads: LOST CLASSMATES. There are only 2
+..entries: PERCY ELLISON, CAMPUS BOMBER.
+._Percy
+>:Excuse me. I'm Percy Ellison. I'm 
+.:not lost.
+..Jude doesn't notice Percy.
+.\Around Room
+>.Tuggy is warmly received by many classmates. He hands out
+..green envelopes as he visits.
+.\snack table
+>.Eric eats a grape. Pull out to see other classmates put
+..plates down.
+.\Around Room
+>.Percy squeezes between 2 chatting classmates who don't react
+..to his presence.
+.\Corner of room
+>.Classmates chat and laugh with one another. Lance stands in
+..the middle talking to no one. Dr. Morday approaches.
+._Dr. Morday
+.:Who are you?
+._Lance
+.:Lance Waliczek.
+._Dr. Morday
+.:You remember me of course.
+..Lance reads Dr. Morday's nametag.
+._Lance
+>:Dr. Morday? I'm sorry. I don't. I
+>:didn't socialize much when I went
+.:here.
+._Dr. Morday
+.:I see.
+._LANCE
+>:I've forgotten so much about this
+>:place it almost feels like I had a
+.:stroke.
+..Lance laughs nervously. Dr. Morday strokes chin.
+._Dr. Morday
+.:No. I don't think you had a stroke.
+._Lance
+>:Phew. Coming from a doctor that
+.:makes me feel better.
+._Dr. Morday
+>:It seems more like Alzheimer's. 
+>:You should get that checked out
+.:immediately. Enjoy reunion...
+..Dr. Morday grabs Lance's lanyard.
+._Dr. Morday
+.:Lance.
+.\Welcome Table
+>.Eric stands by himself, furtively looks about. He quickly
+>.pulls out 2 grubby dollars, stuffs them into his blue
+..envelope, reaches for collection box.
+._Classmate #2
+.:Hey! Get away from there!
+..Classmate #2 runs over, takes Eric's donation.
+.\Around Room
+..Tuggy offers a green envelope to Dr. Morday.
+._TUGGY
+.:Interested in donating?
+._Dr. Morday
+>:Your homeless pals won't be getting
+.:a handout from me.
+._TUGGY
+.:This was a mistake.
+..Dr. Morday points at the DR. title on his nametag.
+._Dr. Morday
+.:This was a mistake, Doctor!
+._Tuggy
+>:I didn't think podiatrists were
+.:real doctors.
+._Dr. Morday
+>:Well what have you done with your
+.:life, huh, Arthur?
+._Tuggy
+.:It's Tuggy.
+._Dr. Morday
+>:You certainly knew what you wanted
+>:out of college, and it wasn't an
+.:education.
+._Tuggy
+>:Well I graduated so... I think I'm
+.:time for another beer.
+._Dr. Morday
+>:Always time for a beer, right
+.:Arthur?
+..Tuggy turns away in disgust.
+._Puppet Girl (O.S.)
+.((silly high voice)
+>:Hi Arthur. Do you want to study for
+.:our test?
+>.Tuggy slowly turns back. Dr. Morday pretends his hands are
+..PUPPET GIRL and PUPPET TUGGY. 
+._Puppet Tuggy
+.((silly low voice)
+.:Let's get a beer instead!
+._TUGGY
+.:What are you doing?
+._Puppet Girl
+.:Did you write your term paper?
+._Puppet Tuggy
+>:I have an idea for a term paper. 
+.:It's called 'Let's Get a Beer!'
+._TUGGY
+>:Are you making fun of me or
+.:yourself right now?
+._Puppet Girl
+.:Have you picked your major?
+._Puppet Tuggy
+.:Beerrrrrrrrrrr!
+._Dr. Morday
+>:Oh man! You were pathetic. Still
+>:are from the looks of it. Enjoy
+.:reunion, Arthur.
+..Dr. Morday pats Tuggy on back, walks off.
+._TUGGY
+.:You're pathetic!
+..BETH JONES appears.
+._Beth
+.:Tuggy?
+..Tuggy reaches for a handshake, grins when she hugs him.
+._TUGGY
+>:Beth! Thank God you showed up. I
+.:forgot how unlikeable Morday is.
+._Beth
+.:Did you really?
+._TUGGY
+.:Okay. No. I didn't.
+._Beth
+>:A guy like that kinda sticks in
+.:your head, right?
+..Tuggy points two thumbs at himself, grins goofily.
+._Tuggy
+>:Does a guy like this stick in your
+.:head?
+._Beth
+>:Who could ever forget Tuggy? Look
+>:at you. You look great. You look
+.:exactly like you did back in '98.
+._TUGGY
+>:That's because this is the same 
+>:outfit I wore back in '98. You're
+.:still hot.
+._Beth
+.:Tuggy!
+._TUGGY
+>:What? You are. Fact. Is your
+>:husband gonna beat me up for
+.:telling the truth?
+._Beth
+>:There's no husband anymore.
+>:Unfortunately he was the kind of
+>:guy who stuck in his secretary's
+.:head.
+._TUGGY
+.:Awesome!
+._Beth
+>:Your enthusiasm for my painful
+.:divorce is touching, Tuggy.
+._TUGGY
+>:I'm just saying I'm glad you're
+>:back on the market. And thank God
+>:you're not gonna bore me with
+>:another 'Hi, meet my husband blah
+>:blah blah' We're in college,
+.:people. Leave the families at home.
+._Beth
+>:So you left your wife and kids at
+.:home? 
+..Tuggy chokes on his beer.
+._TUGGY
+>:Kids?! Nooooo! It'd be bad enough
+>:if I had a wife but kids?! Can't.
+.:Breathe.
+>.Tuggy grabs his throat, falls to ground, pretends to choke.
+>.When Tuggy opens his eyes, BETH'S SON, 7 years old, stares
+..down at him.
+._Beth's Son
+.:Is he hurt, mom?
+._Beth
+.:He's just pretending, sweetie.
+._Tuggy
+.:Mom?!
+._Beth's Son
+>:I couldn't leave him with a
+.:babysitter all weekend.
+._Tuggy
+.((ventriloquist voice)
+.:Tuggy. 
+.((normal voice)
+.:Did you guys hear that?
+._Beth's Son
+.:What was it?
+._Tuggy
+>:I think the cheese wants me to eat
+.:it. I better go.
+.((pulls out envelopes)
+>:Here, kid. Get people to fill these
+.:up. Good to see ya, Beth.
+..Tuggy crawls away. 
+._Beth's Son
+.:He's funny. I like him, mom.
+._Beth
+.:Tuggy's very funny. I like him too. 
+.\Snack Table
+..Lance, Eric, Percy silently watch party. Tuggy crawls over.
+._Tuggy
+.:How's it going guys?
+._Lance
+.:I think I have Alzheimer's.
+._Eric
+.:Still homeless.
+._Percy
+.:I think I might be a ghost.
+._Tuggy
+>:Awesome. Keep it up, guys. Beth's
+.:dead to me.
+._Eric
+.:Beth Jones? You love, Beth.
+._tuggy
+.:She's got a kid.
+._Eric & Percy
+.:So.
+._Tuggy
+.:She's got a kid!
+._Lance
+.:I don't like children.
+._Tuggy
+.:Exactly.
+._Eric
+>:Beth's like the only person on this
+.:planet who gets your jokes. 
+._Tuggy
+.:People get my jokes.
+._Eric
+>:Yeah but she laughs at them. This
+>:is the same Beth you said you'd do
+.:anything to go out with?
+._Tuggy
+>:Anything doesn't mean raise some
+.:other dude's baby.
+._Lance
+.:Technically it does mean that.
+._Eric
+>:Tuggy. We're over 30. People our
+.:age have kids. It's normal.
+._Tuggy
+>:Normal? Just because all these
+>:lemmings got married and had kids
+>:doesn't make it normal. Look at us. 
+>:We didn't do that and I think we
+.:look pretty normal.
+..Group shot of roomies. They do not look normal.
+.\inside VAN
+..The Campus Bomber does surveillance.
+.\Hidden Bomb
+..Bomb timer continues count down.
+._Dr. Morday (v.o.)
+.:Stop him! He's stealing my dog!
+.\snack table
+>.Freedom licks Eric. Eric lovingly pats Freedom. Dr. Morday
+..rushes over and drags resisting Freedom away.
+._Dr. Morday
+>:Who let Tuggy's homeless mascot in
+.:here anyway?
+._classmate #2
+>:I caught him stealing money from
+.:the donation box.
+._ERIC
+.:I was making a donation.
+._Tuggy
+>:That box is empty anyway. Nobody in
+.:our class donates.
+..Tuggy grabs box.
+._DR. MORDAY
+.:I do.
+..Tuggy turns box upside down. Nothing falls out.
+._Tuggy
+.:See.
+._Classmate #2
+>:It's 'cause he stole everything.
+.:And check out his nametag.
+..Classmates whisper.
+._Tuggy
+>:What?! It says Eric Davis. That's
+>:his name. You guys really don't
+.:recognize, Eric?
+._Beth
+.:Tuggy, Eric's dead.
+._Tuggy
+>:He's not dead. Look. About a year
+>:after we graduated, Eric and I had
+.:this idea.
+._ERIC
+.:You had the idea.
+._Tuggy
+>:You guys remember what it was like
+>:back then. We're all dirt poor and
+.:Colby just kept begging for money.
+._Dr. MOrday
+.:Some of us still are dirt poor.
+._Tuggy
+>:Anyway, Eric and I got to joking
+>:about what it would take to stop
+>:all the spam, and the next thing I
+>:know... I'm calling Colby and
+>:telling them Eric's dead. Guys, it
+.:was hilarious!
+._Eric
+>:They never asked me for money
+>:again. You should all kill
+.:yourselves.
+._Dr. Morday
+>:You think passing this homeless
+>:creature off as a dead classmate is
+.:hilarious?
+._Eric
+.:I'm not quite dead yet.
+._CLASSMATE #1
+.:Well you're dead to us.
+._Classmate #2
+>:Why don't you go back to your
+.:homeless shelter.
+._Tuggy
+>:What's your problem?! Eric's your
+.:classmate!
+._CLASSMATE #1
+.:You guys are the problem.
+._Dr. Morday
+>:Grow up, Tuggy. You're not in
+.:college anymore.
+..Dr. Morday walks off, classmates follow.
+._Tuggy
+>:Then what's this place? It sure
+>:looks like I'm in college. They
+>:really don't recognize him. You
+.:recognize him, right?
+._Lance
+.:Kind of.
+..Percy pulls an old Colby id out of Eric's clothes.
+._Percy
+.:It's Eric all right.
+..Beth approaches Eric.
+._Beth
+.:It's nice to see you again, Eric.
+._Beth's Son
+.:Why are you so dirty?
+._Beth's Son
+.:Sweetie, that's not polite.
+._Eric
+>:It's okay. This is what happens
+.:when you don't listen to your mom.
+.\Around Room
+..BABY yawns in a carrier next to CARSON, a classmate.
+._Carson
+.:Uh oh. Someone's a wittle sweepy.
+..Tuggy stands bolt upright with worried expression.
+._Tuggy
+.:No.
+..Carson kneels down, baby talks to Baby. 
+._Carson
+>:Someone needs to get to bed, don't
+.:they?
+._Tuggy
+.:No.
+..Carson stands back up, addresses crowd.
+._Carson
+>:I think we're gonna call it a
+.:night, everyone.
+._Tuggy
+.:No!
+>.The music stops mid-song. Classmates put drinks down, say
+..goodnight to each other. 
+._Tuggy
+.:It's only 10 o'clock!
+._CLASSMATE #1
+.:Good night everyone.
+>.Tuggy watches classmates in a panic, runs behind Carson,
+..furtively snatches baby carrier, heads for exit.
+._Eric
+.:This can't be good.
+..Tuggy gesticulates to roomies, mouths words.
+._Tuggy
+.:Guys! Come on!
+..Alarmed Lance points at himself.
+._Tuggy
+.:Yes, you too! Let's go!
+.\EXT. Dorm - night
+>.Tuggy runs with carrier. Roomies follow. Only Tuggy is
+..laughing. 
+._Lance
+.:This is kidnapping.
+._tuggy
+.:This isn't kidnapping. Is it?
+>.Eric nods his head 'Yes'. 50TH REUNION MEMBER #1 & #2
+..approach. Tuggy stops immediately. Others bump into him.
+._Tuggy
+.:Good evening ladies.
+._50th Reunion Member #1
+.:What a cute baby. Is it a boy?
+._Tuggy
+.:I don't know.
+._50th Reunion Member #1
+.:Excuse me?
+>.Eric flashes wide-eyed expression at Tuggy. Tuggy nods back
+..knowingly.
+._Tuggy
+.:Oh. It's not mine. It's his.
+..Tuggy points at Eric.
+._50th Reunion Member #2
+.:His?!
+..Eric nods 'no' wildly, points at Lance.
+._Tuggy
+>:Just joking. Of course it's not
+>:his. People like him don't have
+.:babies, do they?
+._50th Reunion Member #1
+.:I should hope not.
+._Tuggy
+>:What I meant to say was it's his
+.:baby.
+..Tuggy shoves carrier into Lance's hands.
+._Lance
+.:Mine?!
+._50th Reunion Member #2
+.:Aww. I can see the resemblance.
+._Lance
+.:You can?
+._50th reunion Member #2
+.:Uh oh. I smell a poopy.
+._Tuggy
+.:You better change that diaper, dad.
+..Lance strikes his familiar frozen terror pose.
+._50TH REUNION MEMBER #1
+.((whispers to friend)
+>:I don't think that smell is coming
+.:from the baby.
+>.50th Reunion Member #1 nods towards Eric who smiles and
+..steps towards them.
+._50TH REUNION MEMBER #2
+.:Let's get out of here.
+..50th Reunion Members rush off.
+._Eric
+>:Tuggy, Lance is right. This is
+.:kidnapping.
+._Tuggy
+>:Don't look at me. He's the one
+.:holding the baby.
+._Lance
+.:You made me hold it!
+._Tuggy
+>:Relax. No one's kidnapping anyone.
+>:We're just dropping the kid off at
+.:daycare.
+.\ext. Runnals Hall Entrance - Night
+>.Roomies stand outside large wooden doors. Above a temporary
+..banner that reads "Alumni Childcare Center". 
+._Eric
+>:Tuggy, you're not supposed to drop
+.:other people's kids off at daycare.
+._Tuggy
+>:That baby was about to ruin
+.:everybody's night.
+._Lance
+>:Won't stealing a baby ruin
+.:everybody's night?
+._Tuggy
+>:Look. It's simple. We remove the
+>:baby, we keep the party going.
+>:Trust me. They'll thank me for
+.:this.
+._Eric
+.:I'm sure they will, Tuggy.
+._Tuggy
+.:Put the baby down.
+..Lance sets carrier down. Tuggy wildly pounds on door. 
+._Tuggy
+.:Run!
+>.Everyone but Percy runs. Cat appears, rubs against Percy's
+..leg. No one answers door. Percy talks to Cat.
+._PERCY
+>:We can't leave this little guy
+.:outside, can we?
+..Percy picks up carrier. Security Rookie approaches.
+._Security Rookie
+.: Who's there?! 
+>.Security Rookie turns on flashlight, illuminates Percy,
+..Baby, & Cat. Security Rookie draws taser.
+._Security Rookie
+.:Don't move!
+._Cat
+.:Hisssss! 
+>.Cat darts under bush. Security Rookie dives past Percy,
+..under bush. Hear TASER firing.
+._Security Rookie
+.:Ahhhhh!
+>.Security Rookie's legs, sticking out from bush, wriggle for
+..a few moments, go still. Percy walks off with Baby.
+.\EXT. Dorm - NIGHT
+..Tuggy, Eric, and Lance approach doors of class headquarters.
+._Tuggy
+>:Oh man. I can't wait to see their
+.:faces.
+._Eric
+>:I bet they can't wait to see your
+.:face either, Tuggy.
+.\int. Dorm Lobby 
+..Everybody crying and screaming.
+._Tuggy
+.:Why's everybody freaking out?
+._CLASSMATE #2
+.:Somebody stole Carson's baby!
+._Tuggy
+.:I know they did. 'Cause it was me!
+._CLASSMAtes
+.:What?!
+>.Tuggy goofily dances and sings. He's oblivious to the fact
+..that his classmates go silent and glare at him.
+._Tuggy
+.:I stole the baby! I stole the baby!
+._Lance
+.:I didn't steal the baby.
+._Eric
+.:And queue the pitchforks.
+._Dr. Morday
+>:Grab him! Someone call the police! 
+.:Where's the baby, Tuggy!
+..Angry classmates grab Tuggy. Tuggy looks stunned.
+._Tuggy
+>:It was a joke! I was joking. Of
+>:course I didn't steal the baby. I
+>:was hanging out with Lance the
+>:whole time. Tell them, Lance. Tell
+.:them I didn't steal the baby.
+..Tuggy makes "Help me" eyes at Lance.
+._LANCE
+.((meekly)
+.:He didn't steal the baby?
+..Classmates release Tuggy.
+._Carson
+.:My son?!
+..Tuggy puts his arm around Carson.
+._Tuggy
+>:Don't you worry, Carson. None of us
+>:are gonna go to bed until we find
+>:your kid. And since we've all got
+.:to stay up...
+._ERIC
+.((mutters under breath)
+.:Mistake.
+._Tuggy
+>:I guess that means we get to party
+.:a little longer!
+..Percy walks unnoticed through crowd with Baby.
+._Dr. Morday
+>:This is real life you idiot! Is
+.:everything a joke to you!?
+._Tuggy
+>:Look. I'm sure Carson's baby is
+.:okay. Trust me on this one.
+..Percy places carrier by Carson.
+._CLASSMATE #1
+.:I found the baby!
+._Carson
+.:He's back!
+._Tuggy
+.:He is?
+._Eric
+.:I didn't see that coming.
+._Lance
+.:Thank goodness.
+._Tuggy
+.:I told you the baby would be okay.
+._Dr. Morday
+.:I don't how you got that baby back.
+._Tuggy
+.:Well neither do I.
+._Dr. Morday
+>:One of these days your pranks are
+>:gonna catch up with you, Arthur.
+>:What am I saying? Look at you. They
+>:already have. Party's over,
+.:everybody.
+..Classmates exit the dorm lobby in droves
+._Beth
+.:Good night, Tuggy.
+._Tuggy
+>:Beth, don't listen to that guy.
+>:He's a fake doctor. The night's
+.:young.
+._Beth's Son
+.:I'm sleepy, mom.
+._Beth
+.:See you tomorrow, Tuggy.
+>.Tuggy smiles at Beth as she throws her son over her shoulder
+>.and heads for door. Beth's Son watches Tuggy. Tuggy silently
+..mocks him.
+._Tuggy
+.:I'm sweepy, mommy.
+..Beth's Son giggles, waves at Tuggy as they exit.
+._Tuggy
+>:Kids are clueless. He didn't even
+.:know I was making fun of him.
+..Beth's Kid rushes back in, hands Tuggy full green envelopes.
+._BETH'S SON
+>:Here Mr. Tuggy. I filled them up
+.:like you asked.
+._Tuggy
+.:Thanks.
+>.Beth's Son runs off again. The roomies are the only ones
+..left in the lobby.
+._Eric
+.:I think the kid likes you, Tuggy.
+._Tuggy
+>:Don't be ignorant. Come on, guys.
+.:Let's load up.
+.\open Bar
+>.Tuggy, Eric, & Percy fill their pockets with beers from
+..large beverage tub.
+._Lance
+>:I don't think we're supposed to
+.:take these.
+..Tuggy shoves beers into Lance's pockets.
+._Lance
+.:Please stop. I don't drink.
+..Tuggy hands open beer to Lance.
+._Tuggy
+.:We're in college. You drink.
+..Everyone but Lance pounds a beer.
+._Tuggy
+.:Come on Lance. Bottoms up.
+..Lance takes a small sip, gags.
+._Lance
+.:Oh my. I can't.
+._Eric
+>:He's not gonna leave you alone
+.:until you drink the whole thing.
+>.As Lance takes another sip, Tuggy tips bottle up. Lance
+..struggles to keep up. Beer pours down his frontside.
+._Tuggy
+>:Very rusty, Lance. We gotta work on
+.:that.
+.\EXT. Student Pub - NIGHT
+..Tuggy grabs door, pauses to watch white van drive by.
+._Lance
+.:What's in here?
+._Tuggy
+>:Seriously? Man, you really were a
+.:book worm.
+..Tuggy enters.
+._Eric
+>:It's the pub. A handful of students
+>:always stick around in the summer.
+.:Tuggy's looking for playmates.
+.\inT. Student Pub - bar - night
+..Tuggy shows his id to BARTENDER.
+._Bartender
+.:I don't need to see your ids.
+._Tuggy
+.:How do you know we're not underage?
+..Group shot of roomies.
+._BARTENDER
+.:Wild hunch.
+._Tuggy
+>:I almost forgot. Eric. You gotta
+.:see this is.
+>.Tuggy scampers off, Eric and Lance follow. Percy, ignored by
+..bartender, reaches over bar, pours his own beer.
+.\MEMORIAL scholarship Plaques 
+>.Wall honors students, young alumni who've died. ERIC DAVIS
+>.'98 plaque includes scruffy student picture of Eric, WE WILL
+>.ALWAYS REMEMBER YOU engraving. Recipient nameplates missing
+..for last 10 yrs. Craig Olson plaque is nearby.
+._Lance
+>:This looks like Eric. You really
+.:did go here?
+._Eric
+>:McCracken made people donate to
+.:this?!
+._Tuggy
+>:Relax. You know she just hit up
+.:some high rollers.
+._ERIC
+.:Tuggy, this isn't funny.
+._Tuggy
+>:Dude. You have a death plaque.
+.:That's pretty funny.
+>.Tuggy gives 2 thumbs up, makes goofy face at Eric. Eric
+..laughs. BURST OF LAUGHTER erupts elsewhere in pub.
+.\Pub FIREPLACE
+>.Table of laughing students are only other patrons in pub.
+>.Cute FEMALE STUDENT waves at Lance. Lance blushes. MALE
+>.STUDENT, buff & handsome, points at approaching roomies.
+..Tuggy has arm around Eric.
+._Tuggy
+>:This guy you're laughing at. You
+>:might want to show him some
+.:respect. He's a Colby grad.
+._Eric
+.:Go mules!
+._Male Student
+>:We weren't laughing at him. We're
+.:laughing at you.
+..Male Student points to photos on far wall.
+.\ALUMNI PHOTOS
+>.Roomies inspect Black & white, chronologically ordered
+>.photos which depict banal moments from past campus life. In
+>.the last picture a young Tuggy, clean cut, wearing a new
+>."Colby" sweatshirt, flashes an exceedingly goofy smile and
+>.gives two thumbs up. The title reads: "Arthur Gale - Thumbs
+..Up - 1986" 
+._Male Student (O.S.)
+>:You're a campus tradition, man.
+.:Thumbs up. Drrrrrrrr.
+>.The other students, with the exception of Female Student,
+..also give mocking, double thumbs up.
+._Tuggy
+.:That's not me.
+._Eric
+.:That's him alright.
+._Lance
+.:You were so young. 
+._tuggy
+>:I am so young. Too young to be on
+.:this wall of dead alumni.
+._ERIC
+.:Maybe you're dead like me, Tuggy.
+..Tuggy pries photo off wall, hides under his shirt.
+>.Students leave without saying good-bye. Female Student
+..glides by Lance, whispers in his ear. Lance blushes.
+._Tuggy
+.:What'd she say?
+._Lance
+>:She asked me to play...beer
+.:something?
+._tuggy
+.:Yes! We're so in.
+._Eric
+>:I think Lance is so in. I wasn't
+>:getting a vibe they wanted us to
+.:come.
+._Tuggy
+.:Trust me. They want us there.
+.\ext. current student dorm room - NIGHT
+..Knock on door. Male Student cracks door open.
+._Male Student
+.:Private party.
+..Female Student appears in doorway, sees Lance.
+._Female Student
+.:You came! Let him in.
+.\int. current student dorm room - NIGHT
+..Students ignore Tuggy as beer pong cups are filled.
+._Tuggy
+.:Beer pong? Really?
+._Male Student
+.:Who's up?
+._Tuggy
+>:Yeah! Who's up for a real Colby
+.:game like 'Beer Die'?
+>.Everyone continues to ignore Tuggy. Female Student
+..flirtatiously points at Lance.
+._Female Student
+.:You're with me.
+._Lance
+.:I don't play alcohol games.
+._Female Student
+.:You're so cute.
+._Tuggy
+.:Fine. I'll play.
+>.Tuggy attempts to join Female Student, is cut off when she
+..pulls Lance to her side.
+>.Game begins. Tuggy announces throw results as if he's been
+>.appointed judge. Students look at him disdainfully. Lance
+>.makes pathetic throws, Percy catches pathetic throws and
+>.guides them into cup. All are astounded at Lance's amazing
+>.ability. On game winning throw Percy hits ball off 2 walls
+..before going into cup. Crowd erupts.
+._Female Student
+.:You're a ringer!
+._Lance
+.:I swear I've never played before.
+._Female Student
+>:Everybody! Lance is my partner for
+.:life!
+..Female Student plants a giant kiss on stunned Lance. 
+._Tuggy
+>:This is lame. We gotta show these
+.:kids how to really party.
+._Eric
+>:I think they're doing pretty well
+>:on their own, Tuggy. Lance sure is
+.:having a good time.
+..Tuggy walks over to Lance.
+._Tuggy
+>:Come on, Lance. We're going to the
+.:library.
+._Lance
+.:Now?!
+._Eric
+.:Let him be, Tug.
+._Lance
+.:A girl kissed me!
+._ERIC
+.:Was that your first kiss?
+._Tuggy
+>:I'm happy for you. Now come on.
+.:Library. Streaking.
+._Lance
+.:Streaking?! As in naked?!
+._Female Student
+>:Oooh that sounds fun. Everybody!
+.:Lance wants to go streaking.
+..Cheers.
+._Lance
+.:No I don't.
+._Female Student
+.:Who's coming with us?
+._Lance
+.:You're going?
+._Female Student
+.:Of course, partner.
+._Lance
+.:Let's go streaking!
+>.Students cheer and rush out. Female Student pulls Lance
+..along with her. Percy follows students.
+._Tuggy
+.:Streaking was my idea.
+._Eric
+.:I know, buddy. Come on.
+.\EXT. CAMPUS LAWN - Night
+..Tuggy & Eric walk across campus.
+._Tuggy
+.:How'd you...
+._ERIC
+.:Become homeless?
+._Tuggy
+.:Yeah.
+._ERIC
+>:I don't know. One minute I'm this
+>:carefree kid backpacking around the
+>:country and the next minute I can't
+>:open a bank account or get a
+.:utility turned on.
+._Tuggy
+>:Why didn't you move back in with
+.:your mom?
+._ERIC
+.:Tuggy my mom died 12 years ago.
+._Tuggy
+.:Jesus, Eric. I'm sorry.
+._ERIC
+>:Can we stop talking about this? I
+>:just want to pretend that I've got
+.:a home for a weekend.
+..Tuggy puts arm around Eric.
+.\INT. miller library main floor - night
+>.Large open room sparsely filled with a few studiers.
+>.Students & Lance crouch behind a cluster of empty study
+..cubicles. Percy stands in the open.
+._Lance
+.:I don't think I can do this.
+._Male Student
+.:It was your idea, now drop trow.
+._LANCE
+.:But it wasn't my idea.
+._Female Student
+>:I'll take my clothes off right
+.:after you. I promise.
+>.Tuggy & Eric arrive, dive behind the cubicles like they're
+..special ops guys.
+._Tuggy
+.:Who's ready for some streaking?!
+._Male Student
+.:Great. They followed us.
+._Lance
+.:They want me to get naked first.
+._Tuggy
+>:What? No. Everybody gets naked at
+.:the same time.
+._Male Student
+>:Well the way we do it these days is
+.:your friend gets naked first.
+._Percy
+.:I'll get naked first! 
+>.Percy strips, jumps into open, strikes a pose. No one
+..reacts. Percy drops pose and looks defeated.
+._Tuggy
+>:Come on everybody! At the same
+.:time. 5. 4. 3. 2. 1. Strip!
+>.Students don't strip. Tuggy & Eric confidently remove
+>.clothes. Lance strips with hesitation. Students groan at
+>.Eric's many nasty layers. Eric's last layer is a Colby
+..shirt. Naked Tuggy puts arm around naked Lance.
+._Tuggy
+.:Well done, Lance.
+._Lance
+.:Nobody else is naked.
+._Tuggy
+>:Lance, there's two kinds of
+>:streakers in the world: brave naked
+.:ones like yourself and chickens!
+..Tuggy, Eric, and Percy dance and cluck like chickens.
+._Lance
+.:This is embarrassing.
+._Tuggy
+>:For them maybe. Anyway, it's too
+.:late now.
+._Lance
+.:Why?
+._Tuggy
+.:'Cause of this.
+..Tuggy pulls nearby fire alarm.
+._Tuggy
+.:Run!
+..Mayhem ensues. Percy calmly stands in place. 
+._Male Student
+.:Grab their clothes!
+>.Percy overhears Male Student, picks up as much clothes as he
+..can.
+.\EXT. library - night
+>.Streakers burst out main entrance of library. They laugh
+..hysterically as they run down hundreds of well lit stairs.
+._Lance
+.:Oh my God! I'm streaking!
+..At the bottom security approaches in a golf cart.
+._Lance
+.:Oh my God! I'm going to jail!
+._Tuggy
+>:Relax. It's just security. Hey Ted.
+.:Nice night we're having.
+..Security Rookie points flashlight at Tuggy's crotch.
+._Security Ted
+>:I can see you're enjoying reunion,
+.:Tuggy.
+._Security Rookie
+>:All of you! Into the cart right
+.:now!
+._Security Ted
+.((in lowered voice)
+>:You don't really want to ride
+>:across campus with a golf cart full
+.:of naked guys, do you?
+._Tuggy
+.:I do!
+._Security Rookie
+>:Fine! Verbal warning! Now put your
+>:clothes on and don't let me see
+.:your...
+..Tuggy points at his crotch with both hands.
+._Tuggy
+.:Penises?
+._Security Ted
+.:Tuggy. Go easy on him.
+._Security Rookie
+>:Don't let me see your naked bodies
+.:for the rest of the night!
+._Tuggy
+>:Does that mean you want to see my
+.:naked body tomorrow?
+._Security Ted
+.:Tuggy.
+..Security drives away. Tuggy hollers at them.
+._Tuggy
+.:I owe you one, Ted.
+._Security Ted
+.:You owe me a million, Tuggy.
+..Percy arrives, places clothes next to Eric.
+._Eric
+.:Did Ted bring our clothes down?
+>.Roomies get dressed. Percy realizes the only clothes he
+..failed to grab were his own.
+._Tuggy
+>:Maybe Lance's girlfriend brought
+.:them down?
+._Lance
+.:She's not my girlfriend!
+._Eric
+.:Does she know that?
+>.Eric & Tuggy snicker. Lance rubs his lips with his fingers,
+..talks in dreamy voice.
+._Lance
+>:It was pretty amazing the way she
+>:leaned in and touched her lips to
+.:my lips.
+._Eric
+.:You mean kissing?
+._Lance
+>:Yes. Kissing. Maybe she'll do it
+.:again! Let's go find her!
+._Tuggy
+.:Easy buddy.
+._Eric
+>:You might want to stop while you're
+.:ahead.
+._Lance
+>:Stop? She kissed me. She called me
+>:her partner for life. Even you guys
+.:called her my girlfriend.
+._Tuggy
+.:We meant ex-girlfriend.
+._LANCE
+.:Ex?
+._Eric
+>:She didn't come streaking with you
+.:did she?
+._Lance
+>:She's just saying good-bye to her
+>:friends. She's gonna run out those
+.:doors any second.
+..They look at distant library entrance. Nothing.
+._Lance
+>:She's not coming is she? Hey! Maybe
+.:she's waiting for me to come up?!
+._tuggy
+>:Trust me. She's not waiting for
+>:some old guy to chase her around
+.:campus.
+._Eric
+.:He knows what he's talking about.
+._Lance
+.:So that's it?
+._Eric
+.:It's over, buddy.
+._Tuggy
+>:But hey. Look on the bright side. 
+>:You've only been in college a few
+>:hours and you just had an entire
+.:relationship.
+._Lance
+.:My first girlfriend.
+._ERIC
+.:Wow.
+._tuggy
+.:Dude. You just dated someone. Nice!
+._Lance
+.:I just dated someone.
+.\EXT. Dorm - night
+..Percy walks towards front door, glances down at himself.
+._Percy
+|:Woah. I forgot I was naked.
+|:(stops in his tracks)
+>:Oh, man. That's something a ghost
+.:would say.
+>.Percy rushes into dorm. Lance, standing under a nearby tree
+..with Tuggy, sees door close.
+._Lance
+.:Someone's coming!
+._Tuggy
+>:Relax. No one's coming. It's 3 in
+.:the morning. 
+._Lance
+.:I don't think I want to do this.
+..Eric talks from up in the tree.
+._Eric
+.:Tuggy, he doesn't want to do it.
+._Tuggy
+>:He's fine. You're fine. You're not
+>:a real college student until you do
+.:this.
+._ERIC
+.:Tuggy, he's not a college student.
+._Lance
+.:It seems wrong.
+._tuggy
+>:That's what you said about
+.:streaking.
+._LANCE
+.:That was more fun than I expected.
+..They laugh.
+._tuggy
+>:See. So trust me. Our class is
+.:gonna die laughing.
+._ERIC
+.:Someone's gonna die.
+._Lance
+.:Okay. I'll do it.
+..Lance runs to front door. Pulls fire alarm.
+._Lance
+.:I did it!
+._Tuggy
+.:Now run!
+>.Tuggy and Lance laugh hysterically as they run back to the
+>.tree. Tuggy easily climbs up. Lights come on in the dorm as
+..the alarm continues to sound.
+._Lance
+.:I can't get up!
+._Tuggy
+.:Are you serious!? 
+>.Lance's climbing looks like hugging. Tuggy comes down,
+..strains to boost Lance up.
+._Tuggy
+.:You never climbed a tree before?
+._Lance
+.:I got pushed into a bush once.
+._Tuggy
+.:Grab a branch!
+._Lance
+.:Which one?
+._tuggy
+.:Anyone! Just pull yourself up!
+._Lance
+>:Am I supposed to grab the first
+.:branch or the second branch?
+._Tuggy
+.:They're coming!
+>.Eric helps from above. Tuggy and Eric finally heave Lance
+>.onto a branch just as the front door opens. Tuggy, still on
+..ground, turns toward door, pulls his pants down.
+._Dr. Morday
+.:Tuggy! I knew it!
+._Tuggy
+.((exaggerated yawn)
+>:Who pulled that fire alarm? I ran
+>:out here so fast I didn't even have
+.:time to pull my pants up.
+._Lance
+>:I should go down there. I'm the one
+.:who pulled it.
+..Eric grabs him.
+._Eric
+>:Don't move. Tuggy's fine. He's got
+.:your back.
+>.More complaining classmates and their families emerge in
+..pjs. Beth's son points at Tuggy, snickers.
+._Beth's Son
+.:I see your underwear!
+>.Beth smiles at Tuggy. Tuggy winks. Beth's Son runs up to
+..Tuggy, holds out his hand.
+._Beth's Son
+.:High five!
+..Tuggy awkwardly returns high-five.
+._CLASSMATE #2
+.:False alarm, everybody. Guess who?
+._Classmate #1
+.:When is that guy gonna grow up?
+._Tuggy
+>:Guys, it wasn't me. I swear. I'm as
+>:infuriated about this whole false
+>:alarm business as you. You gotta
+.:admit, though, it was pretty funny.
+._Classmate #3
+.:No. We don't have to admit it.
+..Alarm shuts off. Families reenter dorm.
+._Dr. Morday
+.:Keep pushing it, Arthur.
+..Tuggy gives mocking double thumbs up.
+._Tuggy
+.:Will do, podiatrist.
+..Students walk by.
+._Male Student
+.:Look! He's doing it.
+._Students
+.:Thumbs up! Durrrr.
+..Tuggy quickly puts thumbs down.
+.\EXT. Tree Branches - night
+..Eric and clothed Percy sleep at base of the tree.
+._Lance
+.:Did you use to date Beth?
+._Tuggy
+>:I wish. She's awesome but she's got
+.:a kid. Who likes kids, right?
+._Lance
+.:Parents.
+..Tuggy laughs.
+._Tuggy
+.:Lance, you're funny.
+._Lance
+.:Me?
+._Tuggy
+>:Yeah, you. I guess Beth's kid isn't
+>:entirely awful. He thinks I'm
+.:awesome so that's kinda cool.
+._Lance
+>:He hasn't beaten me up yet so he's
+>:better than 100% of the kids I
+.:know.
+._Tuggy
+.:I'm telling you, man, you're funny.
+._Lance
+>:I was just stating a fact. Tuggy,
+>:can I tell you something kind of
+.:crazy?
+._Tuggy
+.:Sure.
+._Lance
+.:I own a poor-she.
+._Tuggy
+>:You mean a Porsche? How's that
+.:crazy? Is it broken or something?
+._LANCE
+.:No. It's new. A 911 Turbo?
+._Tuggy
+>:Nice. That doesn't sound crazy.
+>:That sounds like your doing really
+.:well for yourself.
+._Lance
+>:That's the crazy part. I'm not
+.:doing really well for myself.
+._Tuggy
+.:Dude. You own a new poor-she.
+._Lance
+>:But I'm afraid to drive it. I've
+>:never driven before. I don't even
+.:have a driver's license.
+._Tuggy
+>:Okay. Now it's starting to sound a
+>:little crazy. Why do you own a car
+.:if don't drive?
+._Lance
+>:Because vice-presidents are
+.:supposed to have nice cars.
+._Tuggy
+>:How'd you get back and forth from
+.:Colby when you went here?
+._Lance
+.:My parents.
+._Tuggy
+>:Did you're parents drive you to
+.:reunion?!
+..Tuggy looks around for parents.
+._Lance
+.:Of course not. I took a taxi.
+._Tuggy
+.:From where?
+._Lance
+.:Boston.
+._Tuggy
+>:Jesus! Now that's crazy! How much
+.:did that cost?
+._Lance
+.:I don't know.
+._Tuggy
+>:Dude. Next time you want to throw
+>:your money away call me. Seriously,
+>:you gotta learn to drive. I'll
+.:teach ya.
+._Lance
+.:Really?
+._Tuggy
+>:Yeah really. What are college
+.:buddies are for?
+._Lance
+>:Even college buddies who didn't
+>:recognize each other a few hours
+.:ago.
+._Tuggy
+>:So maybe we're new college buddies. 
+>:Who cares. Details. The point is,
+.:we're friends.
+._Lance
+.:Wow. Can I confess one more thing?!
+._Tuggy
+>:You might want to stop while you're
+.:ahead, Lance. 
+._Lance
+>:I don't know where we are right
+.:now.
+._Tuggy
+.:We're in a tree.
+._lance
+>:I know that, but I don't know where
+>:this tree is. I don't know where
+>:the college is. I wouldn't be able
+.:to find it on a map.
+._Tuggy
+.:You're joking right?
+._Lance
+>:I told you my parents always drove
+>:me here. I know we're in New
+.:Hampshire somewhere.
+..Tuggy pulls beers out of his clothes, hands 1 to Lance.
+._Tuggy
+.:Okay, you need another beer.
+.\INT. Hidden Bomb
+..3 hours rapidly pass on bomb timer.
+.\EXT. Tree Branches - night
+._Tuggy
+>:I thought once I got my degree I'd
+>:be safe but I haven't felt safe
+>:since the day we graduated. I'm
+.:sorry. I'm ruining your reunion.
+._Lance
+>:Ruining my reunion? Are you kidding
+>:me?! I just had the greatest night
+>:of my life. I pulled a fire alarm
+>:when there wasn't a fire. I got
+>:naked with the lights on. I got
+>:kissed. And I did that with you,
+.:Tuggy.
+._Tuggy
+.:Uh. We never kissed.
+..The sun breaks over the horizon.
+._Lance
+.:And I've never stayed up all night.
+..Tuggy holds out his beer to Lance.
+._Tuggy
+.:Cheers!
+..Lance doesn't respond.
+._Tuggy
+>:Lance, You're supposed to say
+.:cheers too.
+._Lance
+.:Oh. Sorry. Cheers.
+..Tuggy clinks Lance's bottle. They take swigs.
+.\INT. campus - day
+..A gentle fog covers a still quiet campus. 
+.\INT. Dorm upstairs hallway - DAY
+..Classmates and families chat as everyone starts day.
+.\outside Jude's door
+>.Jude emerges in bathrobe, discovers worn, sparkly cat toy at
+..foot of his door.
+._JUDE
+>:Sparkle Ball? Kitty? Here Kitty
+.:Kitty.
+.\EXT. TREe base - day
+..A dollar drops onto Lance's sleeping face. Lance wakes.
+._CLASSMATE #1
+>:Tuggy's really getting into this
+.:homeless thing, huh?
+>.Numerous classmates exit dorm and walk by Lance. Lance is
+>.surrounded by empty beer bottles and a sleeping Tuggy, Eric,
+..and Percy. 
+._Lance
+.:Did I sleep outside?
+._Eric
+.:You'll get used to it.
+>.Lance looks at watch, panics, whips out his reunion
+..schedule.
+._Lance
+>:Oh my God! I forgot to synch my
+.:watch. We're missing breakfast!
+._Tuggy
+.:Great idea. Let's miss breakfast.
+._Eric
+>:I think he wants to go to
+.:breakfast.
+.\INT. Dorm bathroom - day
+..Lance frantically showers. Eric pulls back curtain.
+._Eric
+>:Can I borrow your soap? I'll give
+.:it right back.
+._Lance
+.:Keep it. 
+>.As Lance exits, sees Eric showering in his clothes. Dirty
+..water pours off as Eric rub soap on his garments.
+.\EXT. TREe base - day
+..Clean cut Lance and dripping Eric stand over sleeping Tuggy.
+._Lance
+>:Come on! Breakfast ends in 5
+.:minutes!
+._Eric
+.:Time to go, Tug.
+..Tuggy opens eyes, sits up.
+._Tuggy
+.:Relax. We'll make it.
+..Lance run-walks off. No one follows.
+._Tuggy
+.:The dining hall's the other way.
+>.Lance reappears, frantically scurries off in opposite
+..direction. Tuggy stands, all slowly follow Lance.
+.\EXT. dana dining hall - day
+>.Lance bangs on locked glass door, holds up his breakfast
+>.ticket. Percy slips in past an exiting diner moments later.
+..Eric begs for breakfast leftovers.
+._Lance
+.:We missed breakfast!
+._Tuggy
+>:Well if you hadn't run off in the
+.:wrong direction.
+._LANCE
+.:Me?! You're the one--
+._ERIC
+.:Lance, he's teasing.
+.((to exiting diner)
+.:Thank-you.
+>.Exiting diner gives Eric a 1/2 eaten apple. Eric adds
+..donation to pouch he's formed with his shirt.
+._Lance
+.:Last night was a big mistake.
+._Tuggy
+>:The best night of your life was a
+.:big mistake?
+._LANCE
+.:I was drunk when I said that.
+._Tuggy
+.:You were buzzed.
+..Eric shares his food stash.
+._Eric
+.:Eat up, guys.
+._Lance
+.:I'm not eating trash.
+._Eric
+.:I used to say that.
+._Tuggy
+.:Works for me.
+>.Percy exits with large tray of food. Tuggy & Eric eat out of
+..Eric's shirt. Lance hyperventilates.
+._Lance
+>:Oh my goodness. This is my worst
+.:nightmare come true.
+._Tuggy
+>:Missing breakfast is your worst
+.:nightmare?
+..Percy puts down down tray next to Tuggy. 
+._Tuggy
+>:Look. A tray of perfectly good
+.:food. Now are you happy?
+..Tuggy picks up tray.
+._Lance
+>:No. I don't even know where that
+.:came from.
+._Tuggy
+>:It came from the dining hall. Just
+>:trust the universe a little, Lance. 
+.:The universe wants you to eat.
+._Lance
+.:I can't.
+._Tuggy
+>:Well maybe that's why you came to
+.:reunion. To realize you can.
+..Tuggy, Eric, and Percy sit, eat off tray.
+._Lance
+.:Fine.
+..Lances sits. Tuggy immediately stands followed by others.
+._Tuggy
+>:What are you doing, Lance? We're
+.:gonna miss the Parade of Classes.
+..Lance talks with mouth full.
+._Lance
+.:You just told me to eat!
+._Tuggy
+>:This guy's gonna make us late to
+.:everything.
+._LANCE
+.:Me?!
+._Eric
+.:Lance. He's joking.
+.\EXT. FRONTAGE ROAD - DAY
+>.Alumni and their families line up sequentially behind class
+>.signs. Older, smaller classes near the front stand behind a
+>.parked, decorated golf cart driven by Assistant. The class
+..of '98 is out of order at the back of the parade.
+._Eric
+.:Why is our class in back.
+._Tuggy
+.:I think McCracken's punishing us.
+._BETH'S SON
+.:Hi!
+..Beth's Son appears at Tuggy's feet, stares. Beth arrives.
+._BETH
+.:Don't bother Tuggy, dear.
+._Tuggy
+.:He's not bothering me.
+._Eric
+.:He's not?
+._Tuggy
+.:Why don't you guys march with us.
+._BETH'S SON
+.:Can we mom?
+._BETH
+.:Sure.
+.((whispers)
+.:Thank-you, Tuggy.
+._Eric
+.:Interesting.
+._Tuggy
+.:Zip it.
+..Dean McCracken, hanging off golf cart, speaks with bullhorn.
+._Dean McCracken
+>:As most of you know I'm Phyllis
+>:McCracken. I'm the Dean of Alumni
+>:which means I'm the one who asks
+.:for money.
+..Dean McCracken laughs. Crowd laughs and applauds.
+._Tuggy
+.:Why are people clapping for that?
+._DEAN McCracken
+>:Your contributions not only keep
+.:Colby strong, they pay my salary.
+..Dean McCracken laughs, Tuggy yells under his breath. 
+._Tuggy
+.:There's a reason not to give money.
+..Crowd stares at Tuggy, shushes him.
+._DEAN McCracken
+>:Each year we honor the oldest
+>:attending alumn by inviting him or
+>:her to ride at the front of our
+>:parade. This year that honor goes
+.:to Mr. Tom Sherry, class of 1933!
+>.Cheers. TOM SHERRY, 80s, spry, waves, skips over to golf
+..cart, hops on back where Assistant holds class of '33 sign.
+>.Pull out to see GLADYS LOVEJOY, 80s, not spry, hunched over
+>.behind cart. She clings to an oxygen tank with a CLASS OF
+..'34 sign wedged into it. She's struggling.
+..Parade starts moving.
+._Dean McCracken
+.:Everyone. The Alma Mater!
+.((singing)
+.:Hail Colby Hail...
+..The crowd mumbles, unfamiliar with lyrics. 
+>.Class of '35 Member #1 & #2 stand impatiently behind a
+..barely moving Gladys.
+._Class of '35 member #1
+.:Come on. The golf cart's leaving.
+._Class of '35 Member #2
+.:You're holding up the parade.
+>.In back, Tuggy stands off to the side, shades his eyes,
+..looks towards the front of the parade.
+._Tuggy 
+>:Looks like someone could use a
+.:little help up there.
+>.Roomies cut to front of parade. Tuggy gives Gladys his arm,
+..Eric pulls her oxygen tank. 
+._LANCE
+>:Where are we marching too by the
+.:way?
+._Eric
+>:To the gym. So we can cheer for all
+.:the money we're giving Colby.
+>.Tuggy confidently sings the ongoing alma mater. Gladys
+..Lovejoy removes mask and joins Tuggy.
+.\INT. gym - DAY
+>.Montage of class reps presenting oversized cardboard checks
+..to Dean McCracken. Ends with Dean McCracken at podium.
+._Dean McCracken
+>:Because of your generosity, Colby
+>:College will remain a world class
+.:institution!
+.((applause)
+>:Now if we could have the classes
+>:exit in the same order they entered
+>:we'll take class photos and get our
+.:family luncheon started.
+..Applause. Crowd stirs. Tuggy shouts.
+._Tuggy 
+.:You forgot the class of '98!
+>.Room goes silent. Dean McCracken's demeanor transforms fromm
+..sugary sweet to angered.
+._Dean McCracken
+>:No, sir, we didn't. The class of
+>:'98 forgot us. We could hardly
+>:afford a cardboard check with what
+.:your class donated.
+..A few crowd members boo.
+._Dean McCracken
+.:Go ahead. Boo. They deserve it.
+..More crowd members boo.
+._Dean McCracken
+>:The class of '98 has shattered
+>:records for the least amount of
+>:money donated. They're by far the
+>:worst giving class in the history
+.:of Colby College.
+..Tuggy stands, yells over the boos.
+._Tuggy
+.:We're #1! We're #1!
+..Crowd drowns out Tuggy with even louder boos.
+._DR. MORDAY
+>:Everybody's booing us! See what
+>:happens when you give your
+>:donations to Tuggy. Is helping poor
+.:people worth this?
+._Tuggy & Eric
+.:Yes!
+._Lance
+.:No? Yes?
+..Dr. Morday, Tuggy & Eric stare at Lance.
+.\INT. stairwell TO INDOOR TRACK
+>.Photographer arranges Class of '98 for their official
+..reunion class photo. Classmates give Tuggy cold shoulder.
+._Dr. Morday
+>:All the other classes are already
+.:eating.
+._Eric
+>:You're last in line to eat lobster.
+.:Life's so unfair.
+._Dr. Morday
+>:Control your homeless guy, Tuggy,
+.:or I will.
+._Tuggy
+>:Eric's your classmate, not some
+.:trained dog. Although...
+..Tuggy turns, points finger gun at Eric.
+._Tuggy
+.:Bang!
+..Eric plays dead. Tuggy pats Eric on head.
+._Tuggy
+.:Good boy.
+._Photographer
+>:Can I have everyone who donated
+.:over $500 dollars down front.
+..Dr. Morday heads down front, turns to Tuggy.
+._Dr. Morday
+>:Tuggy, do us a favor and get out of
+.:the picture.
+..Lance also heads down front.
+._Tuggy
+.:Where are you going?
+._Eric
+.:Tuggy. Let him go.
+..Lance joins Dr. Morday. They're alone in the front row.
+._Dr. Morday
+>:Glad someone else cares about this
+.:place. Steve, right?
+._LANCE
+.:Lance.
+._BETH'S SON (O.S.)
+>:I can't see. Can you hold me up,
+.:Mr. Tuggy?
+._Tuggy
+.:Uh... sure.
+>.Tuggy holds Beth's Son in air, awkwardly away from his body.
+..Beth's son laughs. Beth smiles. Tuggy smiles.
+._PHOTOGRAPHER
+.:Hold please.
+._Percy
+.:Photobomb!
+>.Percy jumps spread eagle in front of shot as camera clicks.
+..Percy doesn't appear in picture now frozen in viewfinder.
+.\INT. indoor track - day
+>.Hundreds of tables occupied by alumni and families. Tuggy
+..leads roomies to the buffet table. 
+._Food Service Employee
+.:Excuse me. Excuse me!
+._Lance
+.:Tuggy. I think she's talking to us.
+>.A FOOD SERVICE EMPLOYEE is taking meal tickets from a long
+..queue of people waiting to get access to the buffet.
+._Tuggy
+.:It's cool. We're students.
+._Food Service Employee
+.:I need to see your tickets.
+._Eric
+>:I think she knows we're not
+.:students, Tuggy.
+._FOOD SERVICE EMPLOYEE
+>:I can't let anyone through without
+.:a ticket.
+._Lance
+.:Here's mine.
+._Tuggy
+.:Fine. I wasn't hungry anyway.
+>.Tuggy & Eric walk off. Lance waits in line. Percy walks to
+..buffet unnoticed.
+.\Class of '98 Lunch Tables
+>.Tuggy & Eric sit with their classmates. They're the only
+..ones without food.
+._Perfect Son
+.:I'm not gonna eat this. It's gross.
+._Dr. Morday
+.:Stop! 
+>.Dr. Morday gives 'Stop' hand signal. Perfect Son goes
+..silent.
+._Dr. Morday
+.:People in China are starving.
+._Perfect Son
+.:I don't care about people in China.
+._Dr. Morday
+.:Neither do I. Now eat.
+>.Dr. Morday gives 'Eat' hand signal, continues conversation
+>.with classmates. Perfect Son picks up lobster, pretends it's
+>.a toy plane. He flies it by Eric's face, fires pretend
+..missiles. 
+>.Lance arrives with lunch. Tuggy grabs roll off Lance's tray.
+..Lance is perturbed. Lance stares at his lobster.
+._Eric
+>:Let me guess. You've never eaten a
+.:lobster before?
+..Eric helps Lance. Tuggy snaps fingers.
+._Tuggy
+>:I know what we can do for lunch!
+>:Guys, come on. I've always wanted
+.:to do this.
+..Tuggy runs off. Eric follows. Lance cracks shell.
+._Lance
+.:I did it! Where's everyone going?
+..Lance follows. Percy arrives with tray of lobsters, sits.
+.\Salad Bar
+._Eric
+>:Salad? This is what you've always
+.:wanted to try? Okay.
+._Lance
+>:Tuggy, you need a ticket to eat the
+.:salad.
+._Tuggy
+>:Oh I've gotta ticket alright, wink
+.:wink, if you know what I mean.
+._Eric
+.:I don't know what you mean.
+._Tuggy
+.:Just get ready to run.
+._Lance
+>:You're getting a salad. Why would I
+.:need to run? 
+._Eric
+.:Because of that.
+..Tuggy lies butt cheeks up in salad bowl.
+._Tuggy
+.:I'm naked salad bar surfing!
+>.Mayhem. Security Rookie runs towards them. Tuggy dismounts,
+..pulls pants up, eats piece of salad from pants.
+._Tuggy
+.:Mmm. Radicchio.
+>.Security Rookie chases roomies out of fieldhouse. Beth and
+..Beth's Son watch from soda fountain.
+._BETH'S SON
+.:I saw Mr. Tuggy's heinie!
+._BETH
+>:That's not how we eat salad, is it.
+>:Sweetie? It's kind of a cute
+.:heinie, though.
+._BETH'S SON
+.:Mom! Gross!
+>.Beth & Beth's son burst out laughing. Percy removes bib,
+>.stands, calmly follows roomies. He hesitate, returns to
+>.table. Percy grabs lobster plane out of Perfect Son's hand
+..and launches it across the room. Perfect Son freaks.
+.\EXT. pole vault cushion - DAY
+..Roomies panting wildly.
+._Tuggy
+.:I think we lost him.
+..Tuggy & Eric high-five, jump onto cushion, sun themselves.
+._Lance
+.:What were you thinking?!
+._Tuggy
+>:That it would be fun to get naked
+.:in the salad bar.
+._Lance
+>:You can't do things like that! It's
+.:illegal.
+._Eric
+.:And slightly unsanitary.
+._Tuggy
+.:And surprisingly cold.
+._Lance
+>:This isn't a joke, Tuggy! You could
+.:go to jail for something like that!
+._Eric
+.((deep voice)
+.:What you in for?
+._Tuggy
+.:I put my penis in a salad.
+._Lance
+>:Do you even bother to think how
+>:your little pranks affect the rest
+.:of us?!
+._Tuggy
+.:First off, my prank's not little.
+._Eric
+.:It's true. I've seen it.
+._Tuggy
+>:And secondly of course I thought
+>:about other people before I leapt
+.:into that salad bar.
+..Tuggy crawls seductively towards Lance.
+._Tuggy
+>:In fact, Lance, I thought about you
+>:as I gently thrust my member deep
+>:into that leafy bed of vegetation.
+.:Oh! Lance! Lance!
+._Lance
+.((explodes)
+>:Fine! Just keep making fun of me!
+.:You're just like everybody else!
+..Lance storms off. Tuggy & Eric sit up in surprise.
+._Tuggy
+.:Whoa. I was joking.
+..Lance stops, turns back towards Tuggy & Eric.
+._Lance
+>:No, you were making fun of me. I
+>:know when someone's making fun of
+.:me.
+._Eric
+.:Hey. Lance. We're sorry.
+._Tuggy
+>:Yeah, I'm sorry. Sometimes I go a
+.:little too far.
+._Eric
+.:That's also true.
+._Tuggy
+>:But its only because I want
+.:everyone to have fun.
+._Lance
+>:You think it's fun for me watching
+>:you put your... hoo-hoo in a
+.:salad?!
+._Tuggy
+.:Your hoo-hoo?
+._Lance
+.:Your privates.
+._Eric
+.:Your privates?
+._Lance
+.:Fine. Your dick!
+..Eric and Tuggy stare at each other, burst out laughing. 
+._Lance
+.:You're making fun of me again!
+._Tuggy
+.:No! We're not! 
+._ERIC
+.:Lance, we're laughing with you!
+._tUGGY
+>:Dude, you just yelled the word
+>:"Dick" really loud. That's
+.:hilarious.
+._LancE
+.:I guess that was a little funny.
+..Tuggy gets off mat, puts arm around Lance.
+._Tuggy
+.:Lance. I apologize, okay? Okay?
+._Lance
+.:Fine.
+._Tuggy
+>:I think we need an activity that's
+.:a little less stressful.
+.\EXT. tuggys's truck - day
+..Eric and Lance hold golf clubs.
+._Lance
+.:But I don't know how to play golf.
+._Eric
+.:That's okay. Neither do we.
+._Tuggy
+.:Four!
+>.Tuggy drives a tennis ball into the distance. SCREAM is
+..heard. Tuggy grabs cooler handle, strolls off.
+.\EXT. Campus golf montage - Day
+>.Roomies laugh, drink beer as they hit tennis balls through
+..non-golf locations. 
+|.- Family carnival (Beth & Beth's Son wave at Tuggy)
+|.- Main stage of theatre 
+|.- Campus radio station
+..- Art museum (Roomies stop to appreciate art)
+.\INT. math Building - Main Lobby - day
+>.Lance, holding golf club, reads commemorative plaque as 
+..caterers mill busily about.
+._LANCE
+>:Class of '98? Someone in our class
+>:blew this building up? Did you guys
+.:know... John Robbins?
+>.Tuggy, lying on floor, struggles to open trap door with
+..master key.
+._ERIC
+.:You mean The Campus Bomber?
+._Tuggy
+.:Nobody knew him.
+._Percy
+.:I knew him.
+._Tuggy
+>:I didn't even know him and I knew
+.:everybody.
+._LANCE
+.:Not everybody.
+>.Caterer steps over Lance with a rack of glasses. Glasses are
+..set down near podium. Zoom inside podium.
+.\inside podium
+..Timer on massive bomb continues count down.
+._Tuggy (O.S.)
+>:Remember when McCracken sent out
+>:those donation requests filled with
+.:pictures of the wreckage?
+.\Main Lobby
+._ERIC
+.:Talk about shameful.
+._LANCE
+.:I never got those.
+._Tuggy
+>:You're lucky. That woman would do
+>:anything to raise money for Colby.
+.:There. Got it. Let's go.
+..Tuggy disappears through floor. Eric, Percy follow.
+._LANCE
+.:Where are we going?
+..Eric's head pops up.
+._ERIC
+.:Next hole. Steam tunnels.
+.\EXT. Lawn - day
+>.Freedom poops as roomies climb out of nearby manhole.
+..Freedom trots over, lovingly licks Eric as he climbs out
+._Tuggy
+>:Hey Podiatrist! You gonna clean
+.:that up?
+..Tuggy points at steaming pile.
+._Dr. Morday
+>:That wasn't my dog. It must have
+.:been your homeless friend.
+._Tuggy
+>:What?! We just watched your dog
+.:pooh.
+._Dr. Morday
+>:We all know how homeless people
+.:like to poop in public.
+._Eric
+.:Oh yeah. We love that.
+._DR. MORDAY
+>:You should really clean up after
+.:your pet, Arthur. Freedom. Come!
+>.Dr. Morday turns, freezes as he steps in poop. Percy, stands
+..beside him, zipping pants, smiling.
+.\EXT. college BOOKSTORE - day
+>.Tennis ball hits glass door which reads: GROVER N. RUSHMORE
+..MEMORIAL BOOKSTORE. Roomies approach, golf clubs in hand.
+._Tuggy
+>:Who do you think Grover N. Rushmore
+.:was?
+._Eric
+.:Some rich alumn.
+._Tuggy
+>:I always wanted a Colby building
+>:named after me but I couldn't get
+>:my name on a trash can. At least
+.:you've got a plaque.
+._Eric
+>:I can get you a plaque right next
+.:to mine if you let me kill you.
+._Tuggy
+.:Maybe I should kill myself.
+._Eric
+.:Tug, that's not funny.
+._Tuggy
+>:I bet if I died a heroic death
+.:they'd name something after me.
+._Lance
+.:Are you okay, Tuggy?
+._Tuggy
+.:Yeah. Fine. Just brainstorming.
+.\INT. college BOOKSTORE - day
+>.Lance stands beside display of polo shirts, each embroidered
+..with a tiny college seal on the breast.
+._Lance
+.:What should I get?
+._Tuggy
+>:Get what you want. I know what I
+.:want.
+..Tuggy grabs stuffed mule and humps it.
+._Tuggy
+.:I'm humping the mascot! Yeah!
+>.Dr. Morday and his family watch Tuggy in horror. Morday
+..wears a polo like those on display.
+._Lance
+.:Tuggy. Stop.
+._Tuggy
+.:Here ya go, foot boy.
+>.Tuggy tosses stuffed mule to Dr. Morday who lets it fall to
+..the ground.
+._Dr. Morday
+.:You're vile.
+._Tuggy
+.:Thank-you.
+..Lance glances at Dr. Morday's shirt and chooses a polo.
+._Lance
+.:I'll just get this.
+..Tuggy rips it out of his hands. 
+._Tuggy
+.:Are you kidding me? 
+..Tuggy tosses polo aside.
+._Tuggy
+.:You need something that screams
+.((to entire store)
+.:I go to Colby!
+>.Tuggy grabs sweatshirt lettered with giant, all caps COLBY.
+..Tuggy holds it over his head, starts chanting.
+._Tuggy
+.:Col-bee! Col-bee! Col-bee!
+>.Everyone except, Lance, Dr. Morday, and his family join in
+..the chanting. Freedom howls.
+._Tuggy
+.:You too, Lance.
+._Lance
+.:Colby. Colby. Col-bee!
+..Lance smiles. Tuggy tosses him the sweatshirt.
+.\checkout aisle
+>.Eric approaches with basket of items. Cashier looks very
+..uncomfortable. Dean McCracken takes over for cashier.
+._Dean McCracken
+>:I'm going to have to ask you to
+.:leave.
+._Eric
+.:I've got money.
+._Dean McCracken
+>:This store is for students and
+.:alumni only.
+._Eric
+>:I am an alumni. Eric Davis, Class
+.:of '98.
+._Dean McCracken
+>:Eric Davis is dead. Have a nice
+.:day, sir.
+._Eric
+>:We faked my death. It was a joke.
+.:Do I look dead? 
+..Dean McCracken leans in, whispers.
+._Dean McCracken
+>:Well, Eric, yes you do as a matter
+>:of face. And I didn't think it was
+>:a joke when you lied to me. That's
+.:why I destroyed your identity.
+._Eric
+.:You what?!
+._Dean McCracken
+>:I didn't want your poor, grieving
+>:family to have to go through the
+>:pain of notifying everybody you
+.:were dead. So I did it for them.
+._Eric
+.:You ruined my life!
+._Dean McCracken
+.:It was just a joke, Eric.
+..Dean McCracken leans back.
+._Dean McCracken
+.:Next, in line
+>.Eric storms off. Percy, next in line, places his items on
+..counter.
+._Dean McCracken
+.:Next, please.
+..Percy grabs his items, Eric's items, exits.
+.\EXT. College BOOKSTORE - day
+>.Lance proudly wears his new sweatshirt. Tuggy pulls stuffed
+..mule from under his shirt. Eric storms out.
+._Eric
+.:Screw her and screw Colby College!
+._Lance
+.:Are you okay, Eric?
+._Eric
+.:No. I'm not okay. I'm homeless. 
+._Tuggy
+.:Hey. He was just trying to help.
+._Eric
+>:Now people wanna help?! Where was
+.:all the help when I needed it?!
+._Tuggy
+.:What happened in there?
+..Percy places Eric's items at Eric's feet.
+._Tuggy
+>:Look. The universe wants you to
+.:have a new Colby sweatshirt. 
+._Eric
+>:Oh here's some trash on the ground.
+.:Let's give it to the homeless guy.
+._Tuggy
+.:Hey!
+._Eric
+>:Oh the universe has done a swell
+>:job of taking care of me, Tuggy.
+>:You're the worst of all! You're the
+.:reason I'm homeless!
+._Tuggy
+.:Me?!
+._ERIC
+>:You're the one who forced me to
+>:fake my death and guess what? It
+>:worked. McCracken knew all about
+>:our little joke the whole time.
+>:She's the one who destroyed my
+.:identity.
+._Tuggy
+.:It was her?
+._Eric
+>:It might as well have been you! Ha
+.:ha ha! Great joke, Tuggy!
+>.Alumni gather to watch argument. Lance looks around
+..self-consciously.
+._Tuggy
+.:How is this my fault?
+._Eric
+>:Of course you don't see how this is
+>:your fault. You play these stupid
+>:jokes and you can't even see no one
+.:else is laughing.
+._Tuggy
+.:People laugh at my jokes.
+._LANCE
+.:Not always.
+._Eric
+>:15 years ago they might have
+>:laughed. But news flash, Tuggy.
+.:You're not in college anymore!
+._Tuggy
+.:Technically I'm on campus so--
+._Eric
+.:College! Is! O! Ver! Grow! Up!
+._Tuggy
+.:Well at least I'm not homeless!
+._Lance
+.:Uh oh.
+..Eric storms off.
+._Tuggy
+>:Eric! I'm sorry! It just slipped
+.:out.
+..Tuggy turns to crowd.
+._Tuggy
+.:Wow. Someone's touchy, huh?
+..Tuggy puts arm around Lance. Lance squirms slightly.
+._Tuggy
+>:We should go get him. It's time for
+.:dinner anyway.
+.\INT. DORM ROOM - DAY
+>.Eric slouches on bed, drinks a beer. Lance puts on nice
+..clothes. Tuggy holds water balloons in his upturned shirt.
+._Tuggy
+.:Eric. I'm sorry. Are we cool?
+._ERIC
+.:Sure. We're great.
+..Tuggy opens window, crouches down, whispers.
+._Tuggy
+.:Guys, check this out.
+..Tuggy lobs a water balloon, ducks.
+.\EXT. Dorm - day
+>.'98 classmates, formally dressed, exit dorm. Water balloon
+..hits the sidewalk in front of them.
+._CLASSMATE #1
+.:What the?!
+>.Tuggy, laughing, pokes his head out window holding two water
+..balloons above his head.
+._Tuggy
+.:Water balloons!
+._CLASSMATE #2
+.:What a loser. 
+._Dr. Morday
+>:Do us all a favor, Arthur. Fall out
+.:the window.
+._CLASSMATE #1 & #2
+.:Yeah. Fall out.
+..2 more balloons just miss.
+._Tuggy
+.:Sorry. They slipped.
+.\INT. DORM ROOM - DAY
+..Tuggy turns back from window.
+._Tuggy
+.:What's their problem?
+._Lance
+>:Maybe they doesn't like it when you
+.:throw water balloons at them.
+._Tuggy
+>:Okay, mom. Maybe they shouldn't be
+>:so uptight. I mean seriously. We're
+.:in college.
+._Lance
+>:We're not in college, Tuggy. We're
+.:at college.
+._Tuggy
+>:Well it sure feels like I'm in
+>:college the way you're lecturing me
+.:right now.
+..Eric drinks. Tuggy watches Lance dress.
+._Tuggy
+>:You're sure spending a lot of
+>:energy getting spiffed up for
+.:dinner. Trying to impress someone?
+._Lance
+>:No. It's a formal event so I'm
+.:dressing appropriately.
+._Tuggy
+.:We're not dressing up.
+._Lance
+>:I can see that. But I'm not like
+.:you guys.
+._Tuggy
+>:What's that supposed to mean? What
+.:are we like?
+._Lance
+>:You know. You guys don't mind
+.:looking like... you do. 
+._Eric
+.:I love looking this way.
+._Tuggy
+>:Like what? Are you embarrassed by
+.:us?
+._Lance
+>:Well if that's how you're going to
+>:a semi-formal dinner then, yes, a
+.:little bit.
+._Tuggy
+>:Oh. That's rich. You think I'm the
+.:embarrassing one?
+._Lance
+>:Well. I'm not the embarrassing one. 
+.:I'm a vice president.
+._Tuggy
+>:You own a car you're afraid to
+>:drive. You're spending reunion with
+>:people you just met a few hours
+>:ago. I'd say that's pretty
+.:embarrassing.
+._Lance
+>:Well maybe I'd meet some other
+>:people if you didn't keep scaring
+.:them off with your stupid jokes.
+._Tuggy
+>:Well if I'm so stupid why are you
+.:hanging out with me?!
+._Lance
+>:Because you're making me hang out
+>:with you! You're squatting in the
+.:room I paid for!
+._Tuggy
+>:There it is. I knew you'd bring up 
+>:money sooner or later. Your kind
+.:always does.
+>.Tuggy grabs ratty backpack, stuffs it with his ratty clothes
+..now strewn about room.
+._Tuggy
+.:My kind?!
+._Tuggy
+>:Rich people. I thought this was
+>:about friendship but apparently
+.:it's just a business transaction.
+._Lance
+>:I'm just saying that I paid for the
+>:room and you guys haven't offered
+>:to pay anything. It's not exactly
+.:fair.
+._Eric
+.:And that's my que to leave.
+..Tuggy tries to put arm around Eric.
+._ERIC
+.:Don't.
+._Tuggy
+.((to Lance)
+>:Message received, Lance. You're a
+>:big success who can pay for a fancy
+>:dorm room and we're just a couple
+>:of failures. You go hang out with
+>:all the other successful lemmings.
+>:We won't embarrass you anymore.
+.:Enjoy reunion, stranger.
+._Lance
+.:Fine. I will.
+>.Eric exits. Lance grabs urn, follows. Percy hangs head,
+..wheels kids suitcase out door.
+.\ext. math building - DAY
+>.'98 classmates arrive for dinner. Outcasts Tuggy, Eric, &
+..Percy watch off to side. Tuggy notices white van drive by.
+.\INT. math building - dusk
+>.A narrow lobby awkwardly converted into a dining area.
+>.Robotics projects in display cases dispersed at the edges of
+>.the room. CLASS OF '98: WHAT A BLAST IT WAS banner hangs
+>.behind podium. Classmates mingle over cocktails, quartet
+..music.
+>.Outcasts Tuggy, Eric, and Percy enter. Tuggy wears backpack,
+..holds urn. Percy wheels kids suitcase. Jude steps to podium.
+._Jude
+>:If everyone could find a seat we'll
+.:get started.
+>.Many are already seated. Lance sits next to Dr. Morday at
+>.the table closest to the podium. There are three empty
+..seats. Outcasts approach.
+._Dr. Morday
+.:These are taken.
+._Tuggy
+>:I wasn't gonna sit there. I
+>:wouldn't want to embarrass a
+.:certain individual.
+._Dr. Morday
+>:Too late. You've already
+.:embarrassed yourself!
+..Others at table laugh. Lance laughs awkwardly.
+>.Outcasts are rejected at other tables as well. They sit at a
+>.card table, set off from the others, situated next to the
+..noisy catering area. Tuggy sets urn on table.
+.\inside podium
+..Bomb timer continues count down.
+.\lobby window
+..Cat's head pops up outside, disappears moments later.
+.\Dr. Morday's Table
+..Diners confusedly look at one another
+._classmate #3
+.:Cat got your tongue, Jude?
+.\PODIUM
+._Jude
+>:Huh? Oh. Sorry. Um. As you know the
+>:college always sends a
+>:representative to join us for
+>:reunion dinner. This year we'll be
+>:joined by Dean McCracken. Let's
+>:give her a big round of applause
+>:for all the work she's put into
+.:reunion weekend.
+..Applause. Dean McCracken walks to podium.
+.\Tuggy's table
+>.A caterer turns on a loud blender. Outcasts have to yell to
+..hear each other.
+._Tuggy
+>:Why does everyone keep clapping for
+>:that monster? All she does is beg
+.:money from people.
+._eric
+.:You got a problem with beggars?
+._Tuggy
+>:No. I've got a problem with Colby,
+>:which is rich, begging money from
+.:poor people like all of us.
+._Eric
+>:We're the only poor people here,
+.:Tuggy.
+._Caterer
+.:I'm poor.
+._Tuggy
+>:Our classmates used to be fun. What
+.:happened to everyone?
+._percy
+.:What didn't happen to us?
+._ERIC
+>:Well I don't care if they've given
+.:up. I still know how to have fun. 
+.. Blender turns off.
+._Dean McCracken
+>:So I won't be able to join you for
+>:dinner but I encourage you to treat
+>:every moment tonight as if it's
+>:your last. Live deliberately. Live
+>:deep. Suck out the marrow of life. 
+.:Henry David Thoreau. Thank-you.
+..Dean McCracken bows. Wild applause.
+._Tuggy
+.: May I borrow this for a second.
+..Tuggy picks up large basket of dinner rolls.
+._Eric
+.:Tuggy? Please don't.
+._Tuggy
+.:Time for food!
+>.Tuggy throws rolls which bounce off annoyed classmates. Only
+..Beth and Beth's Son laugh.
+._Dr. Morday
+.:Stop this right now!
+._Tuggy
+.:Oh I'm just getting started!
+>.Tuggy grabs giant bowl of mashed potatoes. He threateningly
+..holds a spoonful. 
+._Dr. Morday
+.:Don't you dare, Arthur.
+._Tuggy
+.:It's Tuggy!
+>.A huge wad of mashed potatoes spatters across Dr. Morday's
+>.face. The room erupts with screams, running. Tuggy flings
+>.mashed potatoes everywhere. Percy throws pie slices. Beth
+..and Beth's Son laugh.
+>.Pie hits Dean McCracken in the face. She drops to the ground
+..next to crying Jude.
+._Dean McCracken
+>:I should have let them expel you!
+>:Remember the illegal pet incident?!
+>:I saved you! And you promised to
+>:help me with this class! You're a
+>:failure, just like the rest of your
+.:classmates.
+._JUDE
+.:I'm sorry.
+._Dean McCracken
+>:Quit your blubbering. I don't feel
+.:bad for what I did now.
+._Jude
+.:What did you do?
+._alumni
+>:Remember how I promised to give
+>:your kitten to a nice family in the
+.:country?
+._Jude
+.:Yeah.
+._Dean McCracken
+.:I lied. I dumped it in the woods.
+._Jude
+.:You what?!
+._DEAN McCracken
+>:I should have dumped you in the
+.:woods!
+>.Jude sobs hysterically. Tuggy pulls fire alarm. Security
+..rushes in. Security Rookie tackles Tuggy. 
+._Tuggy
+.:Call off the attack dog, Ted!
+._Security Ted
+.:Sorry Tuggy. I can't this time.
+..Dean McCracken gets up, walks to Dr. Morday, whispers.
+._Dr. Morday
+>:I've just been informed by a little
+.:birdie--
+._Tuggy
+.:He talks to birds. Ah ha.
+..No one laughs.
+._Dr. Morday
+>:Go ahead Tuggy. Enjoy your last few
+>:moments at Colby. I make a motion
+>:to remove Tuggy from the Colby
+.:class of 1998.
+._Tuggy
+.:I make a motion to remove you.
+._Dr. Morday
+.:Do I hear a second--
+._classmates
+.:Second!
+..Tuggy is startled by enthusiasm of response.
+._Tuggy
+>:I already have my degree, so you
+.:can't kick me out, people.
+._Dean McCracken
+>:That's true. You do, amazingly,
+>:have a Colby degree. But, according
+>:to the alumni bylaws, a class does
+>:have the right to remove a member
+>:with a 2/3rds majority vote. Let's
+>:find out if 2/3rds of your class
+.:hates you, shall we, Arthur?
+._Tuggy
+.:Why are you guys listening to her?
+._Eric
+>:I think it's because you threw
+.:mashed potatoes in their face.
+._Dr. Morday
+>:All in favor of kicking Arthur Gale
+>:out of the Colby class of 1998, say
+.:aye.
+>.All but Beth, Beth's Son, Eric, and Percy say aye. Lance
+..mumbles.
+._Dean McCracken
+>:Nearly unanimous. Motion passed.
+>:Take him away. Arthur, if you ever
+>:put a foot on campus again, the
+>:police will be called, and you'll
+.:be prosecuted for trespassing. 
+._Tuggy
+>:I get it. You're trying to scare
+.:me. It worked. Can we stop now?
+..Security Rookie cuffs Tuggy, then Eric.
+._Eric
+>:Hey! Take those off me! I'm an
+.:alum!
+._Tuggy
+.:Don't do this!
+>.Security escorts Tuggy and Eric towards exit. Percy follows,
+..pulling his kids suitcase behind him.
+._classmate #1
+>:Hey. You were hanging out with
+.:Tuggy. Aren't you guys friends?
+._Lance
+.:No. I hardly know him.
+..Tuggy and Lance make eye contact. Tuggy taken away.
+.\EXT. STRIP mall parking lot - night
+>.Tuggy stands outside idling security car, rubs wrists. Ted
+..leans out passenger window, hands Tuggy urn. 
+._Security Ted
+>:After reunion ends tomorrow you can
+.:sneak up and grab your truck. 
+._ERIC
+.:What about my Ferrari?
+._Tuggy
+>:Ted, you know I'm gonna go right
+.:back up to campus.
+._Security Ted
+>:Don't! Tuggy, McCraken's not joking
+.:anymore. She'll put you in jail.
+._Tuggy
+.:Fine. I'll go up tomorrow.
+>.Security drives off. Pull out to see outcasts standing in
+>.strip mall parking lot. Percy wheels kids suitcase over to
+..street adjoining mall.
+._Eric
+>:Congratulations, Tuggy. You've
+.:screwed it up for everyone again.
+._Tuggy
+.:What are you talking about?
+._Eric
+>:What am I talking about!? You just
+>:got us kicked out of Colby. And
+>:that's after you killed me and
+>:turned me into a homeless person!
+>:That girl was right. I'm not part
+>:of Colby anymore. I certainly don't
+.:have any Colby friends left.
+..Eric turns away. Tuggy grabs him.
+._Tuggy
+>:What do you want me to say, Eric?!
+>:You disappeared. I had no idea you
+.:were...
+._ERIC
+>:Don't be afraid to say it now,
+.:Tuggy. I'm homeless.
+._Tuggy
+>:I didn't know you were homeless. I
+>:would have asked you to live with
+.:me. You never called.
+._Eric
+>:I guess I used up all the minutes
+.:on my phone plan.
+..Eric pulls arm away from Tuggy, storms off.
+._Tuggy
+>:I'm a giant loser! Is that what you
+.:want me to say?!
+..Eric stops.
+._ERIC
+.:It's a start.
+._Tuggy
+.:I screw up everything.
+._eric
+.:Not everything.
+._Tuggy
+>:No. Pretty much everything. 
+>:Everyone else has these amazing
+>:lives and I'm still working temp
+.:jobs.
+._ERIC
+.:At least you can get a temp job.
+._Tuggy
+>:Eric, I know you've had it way
+>:worse. I'm not comparing myself to
+.:you. 
+._Eric
+.:I know you're not, Tuggy.
+._Tuggy
+>:I just feel like everyone else
+>:raced downstream after graduation
+>:and I'm like some stick that got
+>:stuck in an eddy. I've just been
+>:spinning around and around in the
+>:same spot for 15 years. I'm a total
+.:failure.
+._Eric
+.:Tuggy, you're not a total failure.
+.((long pause)
+>:It's like you're stuck in
+.:quicksand, right?
+._Tuggy
+.:Exactly.
+._Eric
+>:Tuggy, do you know what the number
+>:1 rule is when you're stuck in
+.:quicksand?
+._Tuggy
+.:Get out of the quicksand?
+._Eric
+>:Do you know what the number 2 rule
+>:is when you're stuck in quicksand?
+>:Quit freaking out about the fact
+>:that you're stuck in quicksand.
+>:It's the freaking out that makes
+.:you go under.
+.\STREET CURB
+>.CRAIG'S GHOST emerges from urn. Floats to Percy who sits on
+..curb of empty street.
+._CRAIG'S GHOST
+>:I've been watching you from the
+.:urn.
+._PERCY
+.:Ahhh! You're dead!
+._CRAIG'S GHOST
+.:I am.
+._PERCY
+>:And I'm talking to you! I really am
+>:a ghost. I didn't even feel myself
+.:die.
+._craig's Ghost
+.:You're not dead yet, Percy.
+._PERCY
+>:I feel fine. No fever. I don't have
+.:a cough.
+._CRAIG'S GHOST
+>:Percy, life isn't just a medical
+>:condition. It's an engagement
+>:condition too. When you don't
+.:engage life, it disengages you.
+._Percy
+>:I ran away from home didn't I? I
+>:went streaking. I stole a lobster
+>:dinner. How much more engaged can I
+>:be? It's not my fault people can't
+.:see me.
+._Craig's Ghost
+.:Are you sure about that?
+._Percy
+.:What else could I possibly do?
+._Craig's Ghost
+>:You could move out of your mom's
+.:house.
+._Percy
+.:I just told you. I ran away.
+._Craig's Ghost
+>:And where are you going when
+.:reunion's over?
+._Percy
+.:I'd don't know. Somewhere.
+._Craig's Ghost
+>:You're going back to your mom's
+.:house.
+._Percy
+.:Maybe not.
+._Craig's Ghost
+>:Percy if you don't move out of your
+>:mom's house you will turn into a
+.:ghost.
+._Percy
+>:Fine! You want me to move out?!
+.:I'll move out!
+>.Percy wheels kids suitcase into the middle of the street. 
+..Lies down.
+._Craig's Ghost
+.:Percy, what are you doing? Get up.
+._Percy
+>:I'm moving out just like you
+.:suggested.
+._Craig's Ghost
+.:Percy! Get up!
+._Percy
+>:I'm gonna lie here until someone
+>:doesn't see me and runs me over.
+>:Then we can get on with this whole
+.:becoming a ghost thing.
+._Craig's Ghost
+>:Percy, you don't wanna become a
+>:ghost! If you've even got a whiff
+.:of a chance to live, take it!
+._Percy
+.((sits up)
+>:But you've helped me see I don't
+>:have a whiff of a chance to live so
+.:if you'll excuse me.
+.((lies back down)
+..White van appears, bears down on Percy.
+._Craig's Ghost
+.:Percy! There's still hope!
+..At the last second van swerves around Percy, speeds off.
+._Craig's Ghost
+.:Oh my God! He missed you!
+._Tuggy
+>:Oh my God! That was the Campus
+.:Bomber!
+..Tuggy runs to curb. Eric follows. Percy sits up.
+._Percy
+.:Am I dead?
+._Craig's Ghost
+.:No!
+..Percy lies back down.
+._Percy
+>:I'm not even good at killing
+.:myself.
+._Craig's Ghost
+>:Don't you get it? He swerved! That
+.:means the driver saw you!
+._Percy
+.:Someone saw me? 
+..Percy stands up, returns to curb.
+._Tuggy
+>:The Campus Bomber's heading to
+.:campus! We've gotta stop him! 
+._Percy
+.:That was John Robbins?
+._Eric
+.:Tuggy no more jokes.
+._Tuggy
+.:Eric, I'm not joking.
+._Eric
+.:Tuggy--
+._Tuggy
+.:I'm not joking!
+._Eric
+.:Okay. I believe you.
+._Tuggy
+>:I've seen him scoping out campus
+>:all weekend. What if he's planning
+>:to blow up the math building
+.:again?!
+._Eric
+.:So let him.
+._Tuggy
+.:What?! Our class is in there!
+._Eric
+>:Tuggy, they just voted us out of
+>:the class. They told us we're not
+>:part of their family anymore so
+>:we're not part of their family.
+.:It's not our problem.
+._Tuggy
+>:Eric, I know you're mad at me
+.:but---
+._Eric
+>:Tuggy, I'm not mad at you. And I'm
+>:not mad at our class. I'm mad at
+.:myself. I can't believe I...
+.((looks down at self)
+.:Let this happen.
+._Tuggy
+.:McCracken did that to you.
+._Eric
+>:She helped but the truth is I did
+.:this to myself. 
+._Tuggy
+>:Eric being homeless isn't your
+>:fault. People take way too much
+>:credit for their successes and
+>:failures. Some people just get
+>:lucky. They end up in boardrooms
+>:while the rest of us get stuck in
+.:quicksand.
+._Eric
+.:Right. Rule #2.
+._Tuggy
+>:Now, I know they just kicked us out
+>:but honestly, they should have. I
+>:deserved it. I've been pretty
+.:annoying this weekend.
+._Eric
+.:Who you?
+._Tuggy
+>:But they're still our friends,
+>:Eric. Some dumb vote doesn't change
+>:that. And when people you love are
+>:about to get blown up you rescue
+>:them. Even if they throw you in
+.:jail afterwards.
+._Eric
+.:Fine. How are we gonna do this?
+..Tuggy snaps fingers, pulls out phone.
+._Craig's Ghost
+>:There's hope for you yet, Percy. Of
+>:course that hope's based on a guy
+.:who's about to blow up your class.
+._Percy
+.:John wouldn't blow up anyone.
+._Craig's Ghost
+.:Tell them, not me.
+._Tuggy
+.((deep voice)
+>:I'd like to report a bomb threat in
+>:the math building. No. This isn't
+.:Tuggy.
+.((normal voice)
+>:Okay. It's Tuggy. Look! I just saw
+>:The Campus Bomber! He's driving
+>:towards the math building and our
+>:classmates... Hello? They hung up!
+.:I'll call Ted.
+._Eric
+>:I'm not sure we've built up quite
+>:enough credibility to get Ted or
+.:anyone else to listen to us, Tug.
+._Tuggy
+>:Fine. Then I'll go up there and
+.:pull the fire alarm.
+._Eric
+>:Let's review. We don't have a way
+>:to get to campus. If we could get
+>:to campus they'd throw us in jail.
+>:And if by some miracle we could get
+>:all the way to the math building
+>:and near a fire alarm, we wouldn't
+>:be able to set it off because it's
+>:deactivated from the last time you
+.:had this idea 30 minutes ago. 
+._Tuggy
+>:Admittedly there's a few kinks to
+.:work out.
+._Eric
+>:Tuggy, I don't see how we're gonna
+.:get everybody out of there.
+._Tuggy
+>:Then we gotta stop The Campus
+>:Bomber from getting there in the
+.:first place.
+._Eric
+>:What?! Us?! Stop that psycho?! And
+>:remember? No way to get to campus.
+.:Jail if we get caught.
+._Percy
+.:Excuse me. 
+._Tuggy
+.:Trust me. I've got a plan.
+._eric
+>:The way you're smiling right now
+>:scares me more than The Campus
+.:Bomber. 
+._Percy
+.:Excuse me!
+._Tuggy
+.:Percy?
+._eric
+.:Where'd you come from? 
+._Percy
+.:It's a long story.
+._Tuggy
+>:Percy I hate to cut you off but
+>:we're kind of in the middle of a
+>:crisis. I just saw The Campus
+.:Bomber and--
+._Percy
+.:I know.
+._ERIC
+.:You know?
+._PERCY
+>:I overheard you guys talking. Do
+.:you guys mind if I join you?
+..Tuggy and Eric look at each other.
+._Tuggy
+>:Sure. Okay, now where was I? Oh! My
+>:plan. Step 1. Disguises. Come on
+.:we've gotta hurry!
+..Tuggy sprints towards a Walmart in the strip mall.
+.\INT. walmart - night
+>.Hands frantically grab items off shelves including scissors,
+>.shaving cream, razors, hair gel, tooth brushes, professional
+>.clothes, and business backpacks. Eric stealthily grabs
+..underwear.
+.\INT. Walmart Bathroom - night
+>.Eric rapidly shaves, Tuggy recklessly cuts his hair, Percy
+>.feverishly moves items from his kids suitcase to a new
+..backpack.
+.\EXT. Walmart - night
+>.Well groomed, professionally dressed outcasts, with matching
+..black backpacks rush out of front doors. 
+._Tuggy
+>:Okay. Step 2. Get back to campus.
+.:Percy, where'd you park.
+._Percy
+.:I don't have a car.
+._Tuggy
+.:How'd you get down here?
+._Percy
+.:How'd you get down here?
+._Tuggy
+.:Touche.
+._Eric
+>:Well we better figure something out
+>:quick. The way the Campus Bomber
+>:was speeding up to campus, he's not
+.:gonna wait to set that bomb off.
+._Percy
+.:You don't know he has a bomb.
+._Eric
+>:You don't know he doesn't have a
+.:bomb.
+._Tuggy
+>:Either way we've got to get up
+.:there and find out.
+._Percy
+.:Can we call a taxi?
+._Eric
+>:In Waterville, Maine? It's only 3
+.:miles. We can run that.
+..Eric runs off. Others don't move.
+._Eric
+.:Jog?
+._Tuggy
+.:I've got a better idea.
+>.Tuggy walks over to a delivery car parked outside strip mall
+..pizza joint. He dials phone.
+._Tuggy
+>:I'd like to order a large pizza.
+.:Yes, definitely delivery.
+.\INT. INSIDE car - night
+>.Outcasts lie perfectly still under clutter in back seat of
+>.car that SCREECHES to a halt. Door OPENS and SLAMS.
+..FOOTSTEPS fade. Tuggy peeks up, sees pizza guy running off.
+._Tuggy
+.:He's gone. Everybody out!
+.\EXT. MATH BUILDING - NIGHT
+..Roomies crawl out of pizza delivery car.
+._Eric
+>:Tuggy, are we gonna pay for the
+.:pizza?
+._Tuggy
+>:I delivered pizzas for years. Trust
+>:me. He'll find someone to to buy
+.:it. Look! The van! Into the bushes!
+>.The white van is parked near the loading dock of the math
+>.building. The outcasts jump into nearby bushes. Eric sneaks
+..back to delivery car, pulls cash out, drops in window.
+.\bushes 
+._Eric
+.:Alright Tuggy. What's Step 3? 
+._Tuggy
+.:Step 3?
+._Eric
+>:The next step in your plan?
+.:Disguises. Get back on campus. And?
+._Tuggy
+>:Oh. Right. Step 3. Stop The Campus
+.:Bomber!
+._Eric
+.:And how are we gonna do that?
+._Tuggy
+>:We'll rush the van. We can use
+>:these water guns I grabbed from the
+.:toy aisle.
+._Eric
+>:You want us to take out a deadly
+.:bomber with super soakers?
+._PERCY
+.:He's not deadly.
+._Tuggy
+>:Of course we'll draw him out into
+>:the open first. We can holler and
+>:wave our arms like this, ahhhh, so
+>:he thinks we're a lot bigger than
+.:we are.
+._Eric
+>:I think that's what you do when you
+.:see a mountain lion.
+._Tuggy
+>:Deadly mountain lion. Deadly
+.:bomber. Same thing.
+._PERCY
+.:Guys.
+._Eric
+>:Give me one of those. If you
+>:actually get me killed this time, I
+>:swear I'll haunt you from the
+.:grave, Tug.
+._CRAIG'S GHOST
+.:Haunting's overrated.
+..Tuggy & Eric stand up, Percy pulls them back down.
+._Percy
+>:Wait! Let me talk to him. He used
+.:to be my roommate.
+._Eric
+.:You lived with The Campus Bomber?
+._Percy
+>:Yes and stop calling him that. His
+.:name is John Robbins.
+._Tuggy
+>:Whatever you call him, he's
+.:dangerous. He's probably got a gun.
+._Percy
+>:He doesn't have a gun. And even if
+>:if he does I'm so close to dying it
+.:doesn't matter anyway.
+._Eric
+.:Are you sick, Percy?
+._Tuggy
+.:Are you contagious?!
+..Eric elbows Tuggy in ribs.
+._Tuggy
+.:I mean are you okay? 
+._Eric
+.:Tuggy, he just said he's dying. 
+._Percy
+>:Just let me talk to him. He's my
+.:friend or at least he used to be.
+._Tuggy
+>:Okay. Step 3. Percy talks to John
+.:Robbins.
+..Percy tentatively approaches van, disappears around back.
+._Eric
+>:What are you doing, Percy? We can't
+.:see you, buddy.
+..Hear van door SLIDE OPEN. 
+._Percy (O.S.)
+.:It's Percy! Percy Rodgers! 
+..Hear van door SLIDE CLOSE. Silence. Time passes.
+._Eric
+.:What's happening?
+._Tuggy
+.:Should we rescue him?
+>.Back door of van swings open. Percy emerges, waves others
+..over.
+._Percy
+>:Come on. It's not what you think.
+.:It's actually worse.
+.\INT. inside van - night
+>.JOHN ROBBINS (The Campus Bomber), in driver's seat, offers
+..his hand.
+._John
+.:Hey guys.
+..Nobody shakes John's hand.
+._Percy
+.:He wants us to help him.
+._Tuggy
+.:Help him?!
+._Eric
+.:Are you crazy, Percy?!
+._Percy
+.:He's not gonna bomb Colby. 
+._Tuggy
+.:Sure he's not.
+._Percy
+>:Tuggy, he's not gonna bomb Colby
+>:because he didn't bomb Colby in the
+.:first place.
+._Tuggy
+>:Uh huh. And what's all this? Just
+>:scoping out campus for your
+.:leisurely enjoyment?
+._John
+.:It's surveillance equipment.
+._Tuggy
+.:I knew it!
+._John
+.:For watching Dean McCracken.
+._Tuggy & Eric
+.:McCracken?
+._Percy
+>:John didn't bomb Colby. Dean
+>:McCracken did. And he thinks she's
+.:gonna bomb Colby again.
+..Pause.
+._Tuggy
+>:Oh sweet innocent Percy. You've
+>:obviously been taken in by the
+>:irresistible appeal of a
+.:charismatic bad guy.
+._Percy
+.:John? Charismatic?
+..Percy laughs. John lets out startling snort laugh.
+._Eric
+>:Okay. He's not charismatic. I'll
+.:give him that.
+._John
+>:Percy, I don't have time to
+.:convince these guys.
+._Percy
+.:You've gotta believe him.
+._Tuggy
+.:She is a really awful person but--
+._Eric
+>:I believe you. I know what that
+.:woman's capable of.
+._Tuggy
+.:You're right. Okay guys. We're in.
+..Tuggy holds out hand to John. They shake.
+._Percy
+.:What now?
+._Tuggy
+>:Step 3. Stop Dean McCracken, the
+.:real Campus Bomber.
+.\Driving VaN
+._PERCY
+>:John had a student job in the
+.:alumni office.
+._John
+>:She was nuts. She'd go into her
+.:office and talk to herself.
+._Tuggy
+.((Gollum's voice)
+.:My precious alumni fund.
+._John
+>:Exactly. I stuffed envelopes in
+>:that office for 4 year and she
+>:never talked to me once. Then guess
+.:who comes up to me on my last day?
+._Tuggy
+.:A stripper?
+..Eric glares at Tuggy.
+._John
+>:Close. McCracken. She starts
+>:rambling on about what a huge
+>:contribution I'm about to make to
+>:Colby. I thought she was hitting me
+.:up for a donation.
+._ERIC
+>:She was getting ready to frame you
+.:for the bombing.
+._John
+>:She's the one who told police they
+>:saw me coming out of the building
+.:right before it exploded.
+._PERCY
+.:Which is a total lie.
+._Eric
+>:But why would she blow up a
+>:building? Isn't she trying to raise
+.:money to build buildings?
+._John
+>:For the money. The alumni fund was
+>:way down and McCracken was about to
+>:get fired. She was desperate. After
+>:the bombing, donations poured in.
+>:Enough for 2 or 3 buildings.
+>:Instead of getting fired, McCracken
+.:got a raise.
+._Tuggy
+>:So Colby begs money from us so they
+>:can pay McCracken to blow up Colby
+>:so they can get more money from us?
+.:Sound's like the alumni fund.
+._Eric
+>:Aren't you taking a huge risk
+>:coming onto campus? They could
+.:throw you in jail for life.
+..John parks.
+._John
+>:The way I live I'm already in jail
+>:for life. I gotta find proof she
+>:framed me. Besides, they won't
+>:catch me. I've been sneaking around
+.:Colby for years.
+._Tuggy
+>:I knew it! I've see you at our
+.:other reunions haven't I?
+._John
+.:I wouldn't miss reunion.
+.\inside podium
+..Bomb timer continues count down.
+._Tuggy (V.O.)
+>:Why do you think she's gonna bomb
+.:Colby again?
+._JOHN (V.O.)
+.:She's talking to herself again.
+._PERCY (V.O.)
+.:And the alumni fund is way down.
+.\PARKED VaN
+._John
+>:And I don't think it's a
+>:coincidence she put our class in
+>:the Math Building for reunion
+.:dinner either.
+._PERCY
+>:She wants everyone to remember what
+.:he did... I mean what she did.
+..Eric snaps.
+._Eric
+>:So when she blows up another
+>:building your name will be in
+>:everyone's head. It's a reframe
+.:job.
+..Tuggy slides open van door.
+._Tuggy
+>:John, you stay here. We're gonna go
+>:get your proof. I bet I can get
+>:McCracken to show her hand. I've
+>:got a way of getting under people's
+.:skin.
+._JOhn & Eric & Percy & Craig's Ghost
+.:That's true.
+.\EXT. math building bushes
+>.Ongoing class dinner can be seen through window as Jude
+..pushes branches aside.
+._Jude
+.:Kitty? Here kitty kitty.
+..Cat springs out of bushes, runs away.
+._Jude
+>:Impossible. Come here girl. Daddy
+.:won't hurt you.
+.\INT. dean McCracken's office - night
+..Outcasts burst in on Dean McCracken who's on the phone.
+._Dean McCracken
+.:Thank-you officer. 
+..Dean McCracken hangs up.
+._Dean McCracken
+>:Arthur. What a surprise. You've
+>:already found your way back onto
+>:campus. I just arranged for your
+>:escort to jail. And Eric. Yeah.
+.:You're alive.
+._Eric
+>:You're not gonna get away with
+.:this.
+._Tuggy
+.:We know about the bombing.
+._Dean McCracken
+.:Whatever are you talking about?
+>.Percy waves hands in front of Dean McCracken's face. 
+..McCracken doesn't react.
+._Percy
+>:Guys. She can't see me. I'll look
+.:for evidence.
+..Tuggy and Eric flash confused looks at one another.
+._Dean McCracken
+>:I'm just a dedicated staff person
+>:who's spent her entire life working
+.:tirelessly for ingrates like you.
+._Tuggy
+.:You're an evil money grubber.
+._Dean McCracken
+>:Money grubber?! Who do you think
+.:paid for you to go to Colby?
+._Tuggy & Eric & Percy
+.:Our parents.
+._Dean McCracken
+>:Wrong! I did. The tuition we charge
+>:parents doesn't begin to cover what
+>:it cost to go here. And guess who
+>:gets alumni to cover the
+>:difference? I do! So I paid for you
+.:to go to Colby!
+.\INT. inside VAN - NIGHT
+>.John listens, surveils office conversation. Cat runs by van,
+..Jude follows.
+._Dean McCracken (V.O.)
+>:And have you payed it forward so
+>:the next generation gets to fall in
+>:love with Colby the way you got to?
+>:No! In fact, you've done the
+.:opposite!
+.\INT. dean McCracken's office - night
+._TUGGy
+.:Happy to be of service.
+..Approaches Tuggy.
+._Dean McCracken
+>:Don't you get it, Arthur? You've
+>:single-handedly made the Class of
+>:'98 my biggest problem. And do you
+.:know what my job is? 
+._Tuggy
+>:You don't know what your job is?
+.:Wow. That explains a lot.
+._Dean McCracken
+>:My job is getting rid of problems. 
+>:So while I have no idea what bomb
+>:you're talking about, I do plan to
+>:eliminate my biggest problem in...
+.:67 minutes.
+._Tuggy
+.:What?!
+._Eric
+>:Tuggy, I think she's gonna bomb the
+.:math building! tonight!
+.\INT. inside podium
+..Bomb timer continues count down from 67:00.
+._Dean McCracken (V.O.)
+>:Wait a minute. You've been talking
+>:about the bomb from 15 years ago? I
+>:though you were talking about the
+>:'presenation' I'm about to give
+.:your ex-class.
+.\dean McCracken's office
+._Dean McCracken
+.:Isn't that a funny little mix up?
+._tUGGY
+.:But you'll kill people!
+._Dean McCracken
+>:If the Class of '98 refuses to give
+>:money to Colby, its my job to get
+>:them to generate revenue however I
+>:can. The only thing more lucrative
+>:than a bombing is a bombing with a
+.:little collateral damage.
+..Tuggy dials 911.
+._Tuggy
+>:You're not the only one who can
+.:call the police. 
+.((talks into phone)
+>:I'd like to report a bomb threat at
+>:Colby College. The math building.
+.:Please hurry.
+..Dean McCracken's phone rings.
+._Dean McCracken
+>:Hello? Another bomb threat? Of
+>:course it's the math building. Yes, 
+>:I'm sure its just another prank.
+>:I'll take care of it. Thank-you,
+.:officer.
+..Dean McCracken hangs up. Points at herself.
+._Dean McCracken
+>:Somebody's called in quite a few
+>:bomb threats over the years. I
+>:guess the police don't take them
+.:very seriously anymore.
+..Approaching police sirens wail in the distance.
+._Dean McCracken
+.:I think your escort's here, Arthur.
+.\INSIDE VAN
+..John sees approaching police. Peels off.
+.\Dean McCracken's office 
+._Dean McCracken
+>:Sounds like your getaway car just
+.:got away.
+._Tuggy
+.:Get her.
+..Outcasts throw Dean McCracken to the ground.
+._Tuggy
+.:We're gonna tell them everything!
+._Dean McCracken
+>:Be my guest, Arthur. I'm sure
+>:they'll take your words over mine
+>:seeing as you're such upstanding
+>:citizens. And I bet they'll love
+>:the pictures of you talking to the
+.:Campus Bomber a few minutes ago.
+._Tuggy
+.:Security will believe me!
+._Dean McCracken
+>:Tell whoever you want, Arthur. 
+>:Don't you get it. You're not worth
+.:listening to anymore.
+._Eric
+.:Tuggy. We gotta get out of here.
+..Outcasts release Dean McCracken, head for door.
+._Tuggy
+>:I'm not gonna let you hurt my
+.:friends!
+._Dean McCracken
+>:I'm not the one hurting them. You
+>:are. You told them not to donate to
+.:Colby.
+..Tuggy rushes back.
+._Tuggy
+>:What if I come up with some money?
+.:Would you stop the bomb?
+..Dean McCracken moves to her computer.
+._Dean McCracken
+>:What bomb? Now, let's see. The
+>:class of '98's giving goal is
+>:$100,000 and your classmates have
+>:managed to donate $2601 so far. 
+>:Almost $98,000 in 61 minutes? You
+>:never know. I'd hurry if I were
+.:you. You too Percy.
+..Percy is surprised she can see him.
+.\EXT. LIBRARY LAWN - NIGHT
+..Outcasts huddle behind a tree.
+._Eric
+>:How are we gonna get our class to
+>:donate that much money? They just
+.:voted us off campus.
+._Tuggy
+.:We're not gonna ask our class.
+._Eric
+>:Did I miss something? Is one of us
+.:rich?
+._Tuggy
+>:We're gonna ask the other reunion
+>:classes. We'll split up. I'll take
+.:the young alumni.
+..Tuggy gives a double thumbs up.
+._Eric
+>:Tuggy I think your passion for
+>:Colby resonates a little better
+.:with the older classes.
+._Tuggy
+.:Fine. You take the young classes.
+._Percy
+.:I'll take everybody else.
+._Tuggy
+>:Meet back here in exactly 45
+.:minutes. We can do this, guys!
+..Tuggy, Eric, and Percy run off in different directions.
+.\around campus montage
+>.- Eric sits, holds cardboard sign: PLEASE GIVE ME $98,399.
+|.Young alumni ignore Eric as they mingle around him.
+|.- Percy pick pockets of alumni who can't see him.
+|.- Tuggy is a huge hit with older alumni.
+..- Jude follows cat across lawn.
+.\INT. Inside Podium
+..Bomb timer continues count down from 15:00.
+._Tuggy (V.O.)
+.:How'd we do?
+.\EXT. LIBRARY LAWN - NIGHT
+..Outcasts place money in pile. Percy counts.
+._PERCY
+.:$38 dollars. We're short.
+._ERIC
+>:Tuggy. What about the money you
+.:raised?
+._TuggY
+>:No. Colby doesn't get a dime of
+>:that money. Besides. We're not
+.:short. Check this out.
+..Tuggy pulls out a check.
+._ERIC & PERCY & CRAIG'S GHOST
+.:$100,000?! How?
+._Tuggy
+>:Gladys! From the parade! Apparently
+>:she really appreciated our help
+>:with the oxygen tank. I think she
+.:might love Colby more than me.
+._ERIC
+.:I doubt that, buddy. Come on.
+.\EXT. ALUMNI BUILDING tree - ext
+..Cat climbs tree next to alumni building. Jude follows.
+._Jude
+.:Here girl. It's okay. 
+>.Jude sees outcasts rush into Dean McCracken's office through
+..her open office window. 
+.\INT. dean McCracken's office - night
+._Dean McCracken
+.:Well if it isn't the outlaws again. 
+..Percy slams money, check onto desk.
+._Percy
+.:$100,038!
+._Tuggy
+>:You said if we met the class goal
+>:you'd stop the bomb. So, stop the
+.:bomb.
+._Dean McCracken
+.:No.
+._Tuggy & Eric & Percy
+.:What?!
+._Dean McCracken
+>:First off, I don't know what bomb
+>:you're talking about. Secondly you
+>:didn't meet your class goal because
+>:the fiscal year for the alumni fund
+>:ended at noon today. Did I forget
+>:to mention that? My mistake. Good
+>:news, though. This generous
+>:donation puts the class of '98 in
+>:the lead for next year. Wow. I
+>:never thought I'd hear myself say
+.:that.
+._Eric
+.:You're a murderer!
+._Dean McCracken
+>:I'm a patriot! You spoiled alumni
+>:brats want to go around bragging
+>:about this ranking and that
+>:ranking. Well this is what it takes
+>:to keep Colby great. If you wanna
+>:eat sausage then you gotta butcher
+.:the pig!
+._ERIC
+>:John was right. She's nuts. She's
+.:really gonna blow up our class.
+._Tuggy
+>:You guys stay here. I'm going over
+.:there.
+._Percy
+.:Are you kidding?
+._Eric
+.:Tuggy, we're going with you.
+.\INT. Inside Podium
+..Bomb timer continues count down from 7:00.
+._Dean McCracken (V.O.)
+.:Enjoy my presentation!
+.\EXT. ALUMNI BUILDING tree - night
+>.Jude, mouth agape, records window scene with his phone.
+..Kitty sits on Jude's shoulder.
+._Jude
+.:Did you see that, girl?
+._CAT
+.:Meow.
+.\EXT. frontage road - night
+..John's van pulls alongside running outcasts.
+.\INT. VAN - NIGHT
+._Percy
+>:John, I figured you'd be miles away
+.:by now.
+._John
+>:And leave my best friend in a
+.:lurch?
+._Percy
+>:I'm your best friend? You're my
+.:best friend!
+>.Van creeps into math building parking lot. Security is
+..parked by front doors.
+._Eric
+.:Security's guarding the door.
+._John
+>:I'll take care of security. You
+.:guys go.
+.\EXT. MATH BUILDING - NIGHT
+>.Outcasts watch van swerve onto grass, zoom by security. John
+..leans out window.
+._John
+.:Seen any campus bombers lately?!
+..John speeds off, security chases in golf cart.
+._tUGGY
+.:That's our cue.
+.\INT. MATH BUILDING / LOBBY - night
+..Tuggy, Eric, & Percy sprint into ongoing dinner.
+._Tuggy
+.((screaming)
+>:Guys! I bet she put the bomb in one
+.:of the display cases! 
+..Outcasts demolish display cases. Room goes quiet.
+._Tuggy
+>:I guess it's not in the display
+.:cases.
+..Tuggy runs to podium. 
+._Tuggy
+>:Everybody, listen up! A bomb's been
+>:planted somewhere in this building.
+.:Everyone needs to exit immediately!
+..Silence. Dr. Morday stands up at his table.
+._Dr. Morday
+>:How stupid do you think we are,
+>:Arthur? We're not gonna fall for
+>:another one of your jokes. Someone
+.:call the police.
+..Eric rushes up to podium.
+._Eric
+>:He isn't joking! This building is
+>:about to explode! You guys gotta
+.:get outta here now!
+._classmate #1
+.:Hey. It's Eric.
+._classmate #2
+.:He's alive!
+._classmate #3
+>:Hey. I've been sending yearly
+>:checks to his memorial fund. He's
+.:been scamming us!
+._classmate #4
+.:He's a liar!
+._Eric
+>:It wasn't a lie, it was a joke.
+>:Anyway. That doesn't matter. The
+.:bomb is real.
+._Classmate #1
+.:Like you being dead is real?
+._Eric
+.((to outcasts) 
+.:Help me out here guys
+..Percy rushes up to podium.
+._Percy
+>:You gotta believe us! Dean
+.:McCracken planted a bomb in here.
+..Classmate #1 leans over to Classmate #2
+._CLASSMATE #1
+.:I just had the weirdest thought.
+..Classmate #2 turns to Classmate #1
+._CLASSMATE #2
+>:That Dean McCracken planted a bomb
+.:in here?
+._CLASSMATE #1
+.:Yeah. Why would we think that?
+..Ah-ha expressions emerge on their faces.
+._CLASSMATE #1 & #2
+.:We both had the fish.
+._Dr. Morday
+.:Grab them!
+>.Classmates grab outcasts. Lance, sitting next to Dr. Morday, 
+..leaps up.
+._Lance
+.:Wait!
+..Lance runs to podium.
+._CLASSMATE #3
+.:Who is that guy?
+._CLASSMATE #4
+.:Was he a transfer?
+._Dr. Morday
+>:Don't be a sucker, Steve. You're
+>:playing right into Arthur's hands.
+.:All this melodrama, it's an act.
+._Lance
+>:My name is Lance. And so what if it
+>:is an act? Sure. Tuggy's a little
+>:out of control. But don't you guys
+>:ever feel little too in control?
+>:All his melodrama. It just gave me
+>:the best 24 hours of my life. And I
+>:bet he's done the same for most of
+>:you. Isn't that why we came to
+>:reunion? To have the time of our
+>:lives? If Tuggy doesn't throw
+>:mashed potatoes at our heads this
+>:is just another forgettable dinner
+.:party.
+..Classmate #4, face covered with mashed potatoes.
+._CLASSMATE #4
+.:He's right.
+..Tuggy frantically gestures at Lance to hurry up.
+._Lance
+>:So who cares if he's joking? He's
+>:giving us a gift and I for one am
+.:gonna accept that gift.
+>.Lance pretends there's a bomb by slow motion running off
+..stage, waving his arms, and playfully screaming.
+._LANCE
+>:Oh no! There's a bomb! Everybody
+.:run!
+..Lance runs by Dr. Morday's table.
+._Dr. Morday
+>:If you leave don't even think about
+>:coming back and sitting at my
+.:table.
+._Lance
+>:I won't be able to. You're table's
+.:about to explode. Ahhhh!
+>.Lance kicks over some chairs. No one follows. Beth finally
+..stands.
+._Beth
+>:Lance is right! We better get out
+.:of here!
+>.Beth winks at Tuggy. Beth and Beth's Son laugh as they exit
+>.in same playful, exaggerated manner. Other classmates join
+..in the fun.
+._Eric
+.:They're leaving!
+._Percy
+.:There's still a few stragglers.
+._Tuggy
+.:I'll take care of them.
+..Tuggy grabs Baby carrier, holds over his head.
+._Tuggy
+.:I'm stealing Carson's baby!
+._Carson
+.:Stop him!
+>.Remaining classmates chase Tuggy out of building. Caterers
+>.look at each other and run out as well. Only Dr. Morday and
+>.his family remain seated. Dr. Morday gives 'Stay' hand
+..gesture to his family.
+._Dr. Morday
+.:Stay! 
+._Perfect Wife
+.:What if there really is a bomb?
+._Dr. Morday
+>:There isn't a bomb. This is what
+.:Tuggy does. If we leave he wins.
+._Perfect Wife
+>:Well I'd rather lose then let
+>:myself get blown up with a... 
+.:selfish ninnie!
+..Perfect Wife guides Perfect Son towards the exit.
+._Dr. Morday
+>:You don't mean that! You can
+.:apologize when you come back.
+..Eric whistles. Freedom jumps up, runs to Eric.
+._Dr. Morday
+.:Freedom, stay! Bad dog! Bad family!
+.\EXT. MATH BUILDING - NIGHT
+..Classmates pour out of building, laughing, fake screaming.
+._Lance
+.:Oh no! It's gonna blow!
+._CLASSMATE #1
+.:This is fun!
+._CLASSMATE #2
+.:Totally.
+.((screaming)
+.:I'm gonna die!
+>.Tuggy runs far away from the building, chased by a group of
+>.angry classmates. He gently sets Baby down, runs off. Angry
+..classmates stop at Baby.
+._Eric
+.:It's working!
+._Percy
+>:Keep people moving away from the
+.:building. 
+._Perfect Wife
+.:My husband! He's still in there!
+..Tuggy runs back into math building.
+._Eric
+.:Tuggy! Don't! It's too late!
+>.Lance continues to lead laughing classmates away from
+..building.
+._Lance
+>:We better get really far away
+.:before...
+>.BOOOOOOOOOOOOOOOOOOOOOOOOOOM! Math Building explodes. All
+..are thrown to the ground.
+._ERIC
+.:Tuggyyyy!
+.\EXT. LIBRARY LAWN - NIGHT
+..The explosion shakes security's golf cart as they chase van.
+._Security Ted
+.:Stop! Turn around!
+._Security Rookie
+.:But he's getting away.
+._Security Ted
+.:My students were in there! Go back!
+.\EXT. ADMINISTRATION BUILDING PARKING LOT - Night
+..Dean McCracken driving a golf cart over the grass.
+._Dean McCracken
+.:Time to make some money.
+.\EXT. MATH BUILDING - NIGHT
+..Dean McCracken drives up.
+._Dean McCracken
+>:Not again! How are we ever going to
+.:raise enough money to pay for this?
+._Percy
+.:It was her!
+..No one notices Percy.
+._Eric
+.:She did this!
+._Dean McCracken
+>:Eric Davis? You're alive! Wait a
+>:minute. Weren't you disguised like
+.:a homeless man yesterday?
+._CLASSMATE #1
+>:Hey. She's right. Why was he
+.:wearing a disguise?
+._ERIC
+>:I wasn't wearing a disguise. I'm
+.:really homeless.
+._Dean McCracken
+>:Our security cameras have pictures
+>:of you and Arthur standing near a
+>:white van outside the math
+.:building.
+._Eric
+>:She's a liar! She's trying to blame
+.:this on us!
+._Dean McCracken
+>:I'm lying? I'm not the one who
+.:pretended to be dead and homeless.
+._CLASSMATE #1
+>:So you weren't talking to someone
+.:in a white van?
+._eric
+>:Well, yes, we were but it's not
+.:what you think.
+._classmate #2
+>:I think Eric's the liar. He and
+>:Tuggy had something to do with
+.:this.
+..Classmates grab Eric.
+._Dean McCracken
+.:Where's Arthur?
+._Eric
+.:You just murdered him!
+._CLASSMATE #1
+.:He went back inside.
+._Dean McCracken
+>:What a shame. Killed by his own
+.:bomb.
+._PERCY
+.:It was your bomb!
+._Lance
+.:Tuggy didn't do this!
+._Dean McCracken
+>:How do you know Tuggy didn't do
+>:this? The Tuggy I knew was a
+>:failure at life who always took
+.:pranks way too far.
+._classmate #2
+>:Maybe getting kicked out just sent
+.:him over the edge.
+._Eric
+>:He just ran into a building to save
+>:our classmate! A building he knew
+>:was about to explode! How can you
+.:guys turn on him like this?!
+._Dean McCracken
+>:They're simply looking at the
+>:evidence, Eric. And the evidence
+.:says you and Tuggy did this. 
+>.Security cart screeches to a halt. They leap out. Sirens
+..wail in distance.
+._Security Rookie
+>:We've got to call in an A.P.B.! We
+.:just saw The Campus Bomber!
+..Classmates gasp.
+._Dean McCracken
+.:Was he driving a white van?
+._Security Ted
+.:Yes!
+..Security runs off.
+._Dean McCracken
+>:I guess that proves everything.
+>:Tuggy and Eric were working with
+.:the Campus Bomber.
+..Classmates gasp again.
+._Percy
+.:That's doesn't prove anything!
+._CLASSMATE #1
+>:I can't believe Tuggy tried to kill
+.:us.
+._CLASSMATE #2
+.:I can.
+._Eric
+>:He didn't try to kill you! He just
+.:saved you!
+..Dean McCracken secretly flashes an evil smile at Eric.
+._Percy
+.:It was her!
+..Jude arrives. Cat is on his shoulder.
+._Jude
+.:Let him go! Percy's right!
+._classmate #1
+.:Who?
+._Jude
+.:Percy.
+._CLASSMATE #2
+>:Oh. Hi, Percy. When did you get
+.:here?
+._Jude
+.:I've got proof it was McCracken!
+..Jude shows crowd video on his phone.
+._JUDE
+.:Arrest her!
+._Dean McCracken
+>:For what? All this shows is Eric
+>:breaking into my office. I'm
+.:clearly the victim in this video.
+._CLASSMATE #1
+.:But you took that money.
+._DEAN McCracken
+>:That's my job. It's obvious why
+>:they came to my office. They were
+>:trying to frame me for this
+.:bombing. Jude's probably in on it.
+._JUDE
+.:What?!
+._ERIC
+.:She's trying to frame us!
+..Dean McCracken grabs Jude's phone.
+._DEAN McCracken
+>:This video doesn't prove I'm
+.:guilty. It proves they're guilty!
+._CLASSMATE #1
+>:How could you try to blow us up,
+.:Eric?
+..Assistant runs up.
+._ASSISTANT
+.:Because he didn't!
+._Dean McCracken
+.:What are you doing?
+._ASSISTANT
+.:Explain these.
+..Assistant produces box with printer's logo.
+._Dean McCracken
+>:Nobody look in that box! I told
+>:that was private. After all I've
+.:done for you.
+._ASSISTANT
+.:After all you've done for me?
+..Assistant opens box, hands out pamphlets.
+._PERCY
+.:What are they?
+._ERIC
+.:They're fund raising pamphlets.
+._ASSISTANT
+>:They're fund raising pamphlets for
+>:this bombing! Dean McCracken had
+>:them printed yesterday. Here's the
+.:receipt!
+._CLASSMATE #1
+.:Hey! Where'd she go?
+._CLASSMATE #2
+>:Look! She's heading for the
+.:arboretum!
+>.Dean McCracken speeds her cart towards trees in the
+..distance. Lance looks at security's empty cart.
+.\EXT. college arboretum - night
+..Dean McCracken zooms through forest, laughs maniacally.
+._Dean McCracken
+>:I always hated this place! Good
+>:riddance to bad rubbish! I'll move
+>:somewhere warm. This is actually
+>:the best thing that's ever happened
+.:to me!
+>.Out of nowhere Lance rams his speeding golf cart into Dean
+..McCracken. She flies through the air.
+._Dean McCracken
+.:Ahhhhhh!
+._Lance
+.:Sorry. New driver.
+.\EXT. MATH BUILDING - NIGHT
+>.Fire fighters battle fire in background. Bandaged Dean
+>.McCracken is put into a police car. Lance walks up behind
+..Eric and Percy and puts his arms on their shoulders.
+._Lance
+.:Tuggy was such an amazing person.
+..Soot covered Tuggy and Dr. Morday appear.
+._Tuggy
+.:Who was an amazing person?
+._Lance & Eric & Percy
+.:Tuggy!
+._Perfect Wife
+.:Gordon!
+..Perfect Wife kisses Dr. Morday. Lance kisses Tuggy.
+._Tuggy
+.:Dude. You just kissed me.
+._LANCE
+.:We're in college.
+._Eric
+.:How'd you...
+._Tuggy
+>:Master key. And superior knowledge
+.:of Colby's steam tunnels.
+._Dr. Morday
+>:I heard beeping and next thing I
+>:know Tuggy's throwing me through a
+.:hole in the floor. And then boom!
+._Perfect Wife
+.:You saved his life!
+._Tuggy
+.:He would have done the same for me.
+..Percy, Lance, and Eric smile skeptically at each other.
+._Dr. Morday
+>:I owe you, Tuggy. Anything you
+>:want, for the rest of your life,
+.:it's yours.
+._Tuggy
+>:How about voting me back into the
+.:class, Doc.
+._Dr. Morday
+>:I move that we proudly recognize
+>:Tuggy as a member of the Colby
+.:class of 1998!
+._CLASSMATES
+.:Second!
+._Dr. Morday
+.:All in favor?
+._CLASSMATES
+.:Aye!
+..Classmates rush over to Tuggy, lift him up.
+._CLASSMATES
+.:Tuggy! Tuggy! Tuggy!
+..Lance, Eric, and Percy clap, smile, cheer.
+.\Around Fire
+>.Everyone is draped in silver blankets. They drink beer as
+..firefighters continue battling fire.
+._Tuggy
+.:Now this is a bonfire!
+..Beth's Son laughs.
+._Beth's Son
+.:Can Tuggy come over to our house?
+._Beth
+.:I don't think Tuggy wants to--
+._Tuggy
+.:Now hold on. Tuggy might want to.
+.\Around Fire
+._Percy
+>:I was thinking, John. Maybe we
+.:could get an apartment together.
+._John
+.:That would be awesome!
+._CRAIG'S GHOST
+.:Well done, Percy.
+.\Around Fire
+._Lance
+>:I know I almost just died but this
+>:has been the best weekend of my
+.:life.
+._Eric
+>:Hanging out with Tuggy's like that
+.:sometimes.
+._Lance
+>:You know I've been wondering. 
+>:Why'd they shorten the name of the
+.:college.
+._Eric
+.:What are you talking about?
+._Lance
+>:You know. It used to be
+>:Colby-Sawyer and now it's just
+.:Colby.
+._Eric
+>:The name didn't get shortened,
+>:Lance. Colby-Sawyer is a different
+>:college in New Hampshire. You're at
+.:Colby College in Maine.
+._Lance
+.:Oh no.
+._Eric
+>:Did you just go to reunion at the
+.:wrong college, Lance?
+._Lance
+.:I might have.
+._Eric
+>:No. I think you're at the right
+.:college.
+.\Around Fire
+..PRESIDENT SPARKS, 60s, business suit, appears.
+._President Sparks
+.:I hear we have some heroes.
+._Dr. Morday
+>:President Sparks! They saved
+.:everybody!
+..Dr. Morday points to Tuggy, Eric, and Percy
+._Tuggy
+.:It wasn't just us, sir.
+._President Sparks
+>:But you're the ones who risked your
+>:lives for your classmates. You're
+>:the kind of people I want building
+>:Colby's future. If you're
+.:interested?
+._Eric
+.:Are you offering us jobs?
+._President Sparks
+.:That's precisely what I'm doing.
+._Eric
+.:But I'm...
+._President Sparks
+>:I aware of your previous
+.:circumstances, Eric.
+._Percy
+>:John? Would you want to live in
+.:Waterville?
+._John
+.:Actually, I already do.
+._Percy
+.:Really?
+._John
+>:What with all the surveillance I
+.:was doing.
+._Eric
+>:I'd love to work at Colby. I'm
+.:ready to be from somewhere again.
+._President Sparks
+.:Tuggy?
+._Tuggy
+>:No offense, sir, but I think its
+>:time for me to leave Colby. I was
+>:thinking maybe I might move down to
+.:Boston.
+.((smiles at Beth)
+>:Maybe ask a friend to help me get a
+.:real job.
+.((smiles at Lance)
+._President Sparks
+.:I understand. 
+._Lance
+>:Excuse me, sir. I have an idea how
+.:we could keep Tuggy at Colby.
+._Tuggy
+.:Lance, I appreciate it but--
+._Lance
+>:Tuggy. Trust me. If I were to make
+>:a sizable donation to Colby, do you
+>:think we could name the new math
+.:building Tuggy Hall?
+._President Sparks
+.:I love it. 
+._LANCE
+.:What do you think, Tuggy?
+..Tuggy gives exaggerated two thumbs up.
+._Tuggy
+.:Thumbs up! Durrrrr!
+._narrator (V.O.)
+>:And that's how I met my college
+>:friends. My best friends. It may
+>:have taken me 15 years to meet them
+>:and I may have met them at the
+>:wrong college but the important
+>:thing is I found them and I found
+.:myself in the process. 
+.@THE END
+.\Roll Ending Credits
+.\INT. student union lobby - day
+..Tuggy rehangs his picture in the student pub.
+.\EXT. potter lake - day
+..Tuggy scatters Craig's ashes.
+.\EXT. nice residential neighborhood - Day
+>.Lance drives a Porsche 911. Tuggy, professionally dressed,
+..sits in passenger seat. Lance pulls over.
+._Lance
+.:I need to take care of something.
+..Lance gets out, crosses street. 
+._Lance
+.:Hey kids!
+..5th Grader #1 & #2 stand up and walk towards Lance.
+._5th Grader #1
+>:Well look who's returned for a
+.:beating.
+..Lance punches both kids in the gut. They collapse, cry.
+._Lance
+.:I know where you live too.
+..Lance returns to car, loosens tie.
+._Tuggy
+.:Nice. 
+._Lance
+.:Now we can go to happy hour.
