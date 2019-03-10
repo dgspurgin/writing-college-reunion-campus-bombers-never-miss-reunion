@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:4791
-Cursor/Column:19
+Cursor/Line:30
+Cursor/Column:7
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -418,7 +418,40 @@ Words/242:yrs
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\INT. Hidden Bomb (Present Day)
+>.LANCE WALICZEK, 30s, handsome, expensive executive suit,
+>.expensive briefcase, walks confidently amongst NYC
+..skyscrapers.
+..LANCE
+>.My name is Lance Waliczek.  I'm the Vice President of Risk
+>.Management at NDA Financial in New York City.  You might
+>.guess that I'm a ruthless and self centered financial type
+>.but you'd be wrong.  I'm acutally quite the opposite. I
+>.never had to climb my way to the top because I was born on
+>.top. My hyper successful parents made sure I was exposed to
+>.all right activities and sent to all the right schools. I
+>.knew from a very early age that as long as I didn't screw
+..things up, I was going to be well off.  I didn't, and I am. 
+>.I've always done what's expected of me.  I'm not
+>.complaining.  In fact, I'm kind of bragging. Look at me. 
+..I'm a success. I have everything a person could want.
+>.Well almost everything. I don't really have a best friend.
+>.In fact, and you may find this hard to believe, I don't
+>.really have friends at all.  Apparently starting out on top
+>.doesn't guaranteed you friendship.  I used to have friends,
+>.or at least I think I did. I've spent so many years working
+|.like I'm supposed to, that I suppose I've lost touch.  
+|.
+>.And there've been a few clues in my life that suggest its
+>.time to reach out again, reconnect.  But I'm not entirely
+..sure how to do soo.
+>.Scenes: Start w/ successful business guy -- devolve into
+>.unliked beaurocrat -- devolve into guys who's terrified of
+>.people. (hides in bathroom, chased by kids but the kids
+>.don't actually chase him... He just assumes he's being
+..chased)
+..
+..
+..INT. Hidden Bomb (Present Day)
 ..Timer on massive bomb counts down from 2 hours.
 ._narrator (V.O.)
 >:They say the friends you make in
