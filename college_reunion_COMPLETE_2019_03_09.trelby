@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:65
-Cursor/Column:19
+Cursor/Line:57
+Cursor/Column:6
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -418,100 +418,74 @@ Words/242:yrs
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
+.\EXT. Crowded city street - morning
 >.LANCE WALICZEK, 30s, handsome, expensive executive suit,
->.expensive briefcase, walks confidently amongst NYC
-..skyscrapers.
-..LANCE
->.My name is Lance Waliczek.  I'm the Vice President of Risk
->.Management at NDA Financial in New York City.  You might
->.guess that I'm a ruthless and self centered financial type
->.but you'd be wrong.  I'm acutally quite the opposite. I
->.never had to climb my way to the top because I was born on
->.top. My hyper successful parents made sure I was exposed to
->.all right activities and sent to all the right schools. I
->.knew from a very early age that as long as I didn't screw
-..things up, I was going to be well off.  I didn't, and I am. 
->.I've always done what's expected of me.  I'm not
->.complaining.  In fact, I'm kind of bragging. Look at me. 
-..I'm a success. I have everything a person could want.
->.Well almost everything. I don't have a best friend. In fact,
->.I don't have any friends at all if you don't count my
->.parents or the cafeteria cashier. Starting out on top
->.doesn't guaranteed you friendship.  I used to have friends,
->.or at least I think I did.  Its hard to remember.  I've been
->.so many years engrossed in risk management that my own
-..life's become a little foggy.
->.I never thought the fog was such a bad thing.  Growing up
->.means letting go of childish things, right?  I can't put my
->.finger on it (show him running/or hiding at this moent) but
->.lately feel like I've pulled away from others too much.  It
->.feels like its time to connect. Clear up the fog.  But I'm
-..not really sure how to go about it (invite falls in lap)
->.Scenes: Start w/ successful business guy -- devolve into
->.unliked beaurocrat -- devolve into guys who's terrified of
->.people. (hides in bathroom, chased by kids but the kids
->.don't actually chase him... He just assumes he's being
-..chased)
-..
-..
-..INT. Hidden Bomb (Present Day)
-..Timer on massive bomb counts down from 2 hours.
-._narrator (V.O.)
->:They say the friends you make in
->:college are the best friends you'll
->:ever have. I've found this to be
->:true, although I didn't meet my
->:college friends until 15 years
->:after we graduated. This is the
->:bomb that blew us up right after we
-.:met.
-.\INT. Corporate Offices - Bathroom - DAY
-..YOUNGER SUBORDINATE and OLDER SUBORDINATES pee.
-._YOUNGER Subordinate
->:Why'd you invite him? It's called
->:'Happy Hour', not 'Get Creeped Out
-.:By Your Reclusive Boss Hour'.
-._Older Subordinate
->:Relax. He won't come. He never
-.:comes. He's too afraid.
->.Inside stall, LANCE WALICZEK (NARRATOR), 30s, handsome,
-..expensive executive suit, sits on toilet in frozen terror.
+..expensive briefcase, walks amongst skyscrapers.
 ._LANCE (V.O.)
->:That's me. The terrified guy on the
-.:toilet.
-.\EXT. corporate offices - Main Entrance - DAY
-..Lance exits, walks across enormous, empty parking lot.
-.\EXT. CITYT STREET - DAY
->.4TH GRADER #1 & #2, schoolboys in uniform, chat on stoop.
-..Lance timidly waves.
+>:My name is Lance Waliczek.  I'm the
+>:Vice President of Risk Management
+>:at NDA Financial.  You might think
+>:that I'm a ruthless financial type
+>:but you'd be wrong. I'm acutally
+.:quite the opposite. 
+.\INT. corporate offices - front desk - morning
+>.Lance exits elevator. He pauses, takes deep breath, fixes
+>.eyes downwards, thenbriskly walks through busy office. Many
+>.greet him with "Mr. Waliczek". Each time he nods slightly
+..but keeps eyes fixed downwards.
+._LANCE (V.O.)
+>:I never had to climb my way to the
+>:top because I was born on top. My
+>:already on top parents made sure I
+>:had every advantage, sent me to all
+>:the right schools, enrolled me in
+>:all the right activities. I knew
+>:from a very early age that as long
+>:as I stayed on course I'd be well
+.:off, which I did so I am.
+.\INT. Executive office - morning
+>.Lance now breathing heavily, shuts door quickly, stops to
+..catch his breath.
+._LANCE (V.O.)
+>:I've got everything a person could
+>:want. Except friends. I used to
+>:have friends, or at least I think I
+>:did. Honestly I've put so much
+>:energy and focus into staying the
+>:course that I've lost touch with
+.:others.
+.\INT. corporate offices - Dusk
+>.Lance peeks out his office door, see wall clock reads
+..7:01PM, hurriedly exits office and through empty offices.
+._LANCE (V.O.)
+>:Its didn't used to be a big deal
+>:but lately it seems to be affecting
+.:me. How? It's hard to explain.
+.\EXT. Residential city street - dusk
+>.Lance walks past elegant refurbished brownstones. 4TH GRADER
+>.#1 & #2, schoolboys in uniform, chat on stoop. Lance timidly
+..waves with one finger.
 ._LANCE
 .:Hi kids.
->.The kids instantly stop talking and turn to Lance. Lance
-..breaks eye contact, quickens pace.
+>.The kids stop talking, look at Lance. Lance breaks eye
+..contact, quickens pace.
 ._LANCE
 .((high pitched cry)
 .:Ahh!
-..Lance bolts. 
-._5th Grader #1
-.:Get him!
-.\EXT. wealthy house - day
->.Lance frantically tries to unlock front door. 5th Graders
-..rush toward him over perfectly landscaped lawn.
-.\Inside House
+..Lance bolts. Kids don't bolt, resume chatting.
+.\EXT. ElEGANT brownstone - DUSK
+..Lance frantically unlocks front door.
+.\Inside
 >.Lance bursts inside. Slams and locks door. He exhaustedly
-..slides to floor. 5th Graders scream through mail slot.
-._5th Grader #1 (O.S.)
-.:We know you're in there!
-._5th Grader #2 (O.S.)
-.:We know where you live!
->.Lance notices mail on floor, picks up reunion invite. It's
-..been misdelivered multiple times.
+..slides to floor. 
 ._LANCE (V.O.)
->:My co-workers were right. I was too
->:afraid. Of everything. And if I
->:didn't do something un-me like
->:soon, I was gonna be afraid for the
-.:rest of my life.
+>:I'm sure its all in my head but
+>:lately I've just been thinking it
+>:would nice to talk to hang out with
+>:people who aren't my parents.  But
+.:I'm not sure how to do that. 
+>.Mail gets pushed through slot. He picks up reunion invite.
+..It's been misdelivered multiple times.
 .\Roll OPENING CREDITS
 >.Reunion invites travel from Colby, through postal system, to
 >.a variety of mail receptacles. A variety of hands grab
@@ -5236,14 +5210,18 @@ Words/242:yrs
 ..Tuggy gives exaggerated two thumbs up.
 ._Tuggy
 .:Thumbs up! Durrrrr!
-._narrator (V.O.)
->:And that's how I met my college
->:friends. My best friends. It may
->:have taken me 15 years to meet them
->:and I may have met them at the
->:wrong college but the important
->:thing is I found them and I found
-.:myself in the process. 
+._LANCE (V.O.)
+>:They say the friends you make in
+>:college are the best friends you'll
+>:ever have. I've found this to be
+>:true, although I didn't meet my
+>:college friends until 15 years
+>:after we graduated. And didn't meet
+>:them at my colle.  And of course it
+>:took getting blown up to bring us
+>:together.  But the important thing
+>:is I found them and I found myself
+.:in the process. 
 .@THE END
 .\Roll Ending Credits
 .\INT. student union lobby - day
