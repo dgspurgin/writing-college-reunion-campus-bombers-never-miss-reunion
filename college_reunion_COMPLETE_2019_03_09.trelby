@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:57
-Cursor/Column:6
+Cursor/Line:70
+Cursor/Column:37
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -484,8 +484,11 @@ Words/242:yrs
 >:would nice to talk to hang out with
 >:people who aren't my parents.  But
 .:I'm not sure how to do that. 
->.Mail gets pushed through slot. He picks up reunion invite.
-..It's been misdelivered multiple times.
+..Mail gets pushed through slot. He picks up large envelope.
+..INSERT - COLBY COLLEGE RUENION INVITATION
+>.Lance's name and address are handwritten after multiple
+>.addresses have been crossed out. Cancellation stamps suggest
+..its been misdelivered multiple times.
 .\Roll OPENING CREDITS
 >.Reunion invites travel from Colby, through postal system, to
 >.a variety of mail receptacles. A variety of hands grab
