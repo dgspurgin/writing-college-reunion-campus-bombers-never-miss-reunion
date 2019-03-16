@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:332
-Cursor/Column:10
+Cursor/Line:358
+Cursor/Column:9
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -742,7 +742,7 @@ Words/242:yrs
 ..spies on building with binoculars, security come into view.
 .\INTERCUT BETWEEN SECURITY AND campus bomber
 ._Dean McCracken (v.o.)
->:I don't need play by play you
+>:I don't need s play by play you
 .:idiots! Move in! Go!
 >.Security Rookie unholsters taser. Campus Bomber lowers
 >.binoculars, closes his eyes, shakes head, puts hands up.
@@ -753,9 +753,10 @@ Words/242:yrs
 .:Come here, cat!
 .\Security Ted's pov
 >.CAT, 15 years old, covered in mattes, hisses. Soiled collar
-..is only indication cat is not wild. Cat darts off.
+..only indication cat is not wild. Cat darts off.
 .\inside van
-..LOUD NOISES below van. Campus Bomber opens eyes.
+>.LOUD NOISES below van. Campus Bomber, frozen with hands up,
+..darts eyes about.
 ._Security Ted (O.S.)
 .:He's going out the front!
 >.Campus Bomber watches Security Rookie chase escaping Cat.
@@ -773,8 +774,9 @@ Words/242:yrs
 ..drives golf cart.
 ._Dean McCracken
 >:You imbeciles! Who's gonna donate
->:money when some mangy cat's peeing
-.:all over campus!
+>:money when some mangy cat is 
+>:killing grass all over campus with
+.:its pee?! 
 ..She slams walkie-talkie down.
 ._ASSISTANT
 >:Maybe it's not the cat? Sometimes
@@ -785,9 +787,9 @@ Words/242:yrs
 .\INT. Hidden Bomb
 ..Bomb timer continues count down.
 .\INT. student union lobby - DAY
->.Decorated for reunion. Assistant sits behind table filled
->.with bins of registration packets.  Lance stands at table
-..while Assistant types into laptop.
+>.Assistant sits behind table filled with bins of registration
+>.packets.  Lance stands at table while Assistant types into
+..laptop.
 ._ASSISTANT
 >:Lance Waliczek, class of '98,
 .:right?
