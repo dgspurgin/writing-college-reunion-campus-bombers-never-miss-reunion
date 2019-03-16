@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:70
-Cursor/Column:37
+Cursor/Line:332
+Cursor/Column:10
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -516,9 +516,9 @@ Words/242:yrs
 ._Recent Grad
 .:Disgusting!
 .((points at umbrella)
->:This isn't Colby Sawyer in New
->:Hampshire. It's the small ivy
-.:league college in Waterville.
+>:This isn't the junior college in
+>:New Hampshire. This is the small
+.:ivy league college in Maine.
 ._Eric
 .:I know! That's where I went!
 ._Recent Grad
@@ -533,11 +533,10 @@ Words/242:yrs
 >:Your college? Sorry to break it to
 .:you, but Colby's my college too.
 ._Recent Grad
->:Sorry to break it to you, but look
->:at you. It's not yours anymore. And
->:since you want money so badly
->:here's a tip: pretending you went
-.:to college makes you look ignorant.
+>:Not anymore. And since you want
+>:money so badly here's a tip:
+>:pretending you went to college
+.:makes you look ignorant.
 ..Recent Grad walks off. Eric talks to himself.
 ._Eric
 .:Ignorant?
@@ -552,15 +551,18 @@ Words/242:yrs
 ..Eric reaches into trash, pulls out soiled reunion invite.
 .\EXT. mom's house - day
 >.PERCY RODGERS, 30s, pudgy, wheels his kids suitcase across
-..front yard. Percy halts, hollers back at screen door.
+..front yard. Percy halts, hollers back at open front door.
 ._Percy
-.:Don't try and stop me, mom!
+.:And don't try and stop me!
 ._Mom (O.S.)
 .:Okay dear. Have fun.
 ._Percy
->:Mom. I don't think you understand
->:the gravity of this situation. I'm
-.:really running away this time.
+>:I don't think you under the gravity
+>:of this situation! I'm really gonna
+.:do it this time!
+..No response.
+._PERCY
+.:Here I go! I'm running away!
 ._Mom (O.S.)
 .:36 year olds can't run away, dear. 
 ._Percy
@@ -568,12 +570,13 @@ Words/242:yrs
 ._Mom (O.S.)
 >:You're right, baby. I'm sorry. You
 >:can do anything you set your mind
->:to. Just make sure you're back in
-.:time for dinner, okay? I love you.
-..Hear FRONT DOOR SHUT.
+>:to. Now let me shut the door before
+>:we get a bunch of flies in here. I
+.:love you, sweetie.  Dinner's at 5.
+..Front door shuts.
 ._Percy
 >:I'm not just gonna hide behind a
-.:tree this time, Mom! Mom?
+.:tree this time!
 >.Percy walks to edge of yard, pulls reunion invite out of
 ..pocket, considers it, looks back.
 ._Percy
@@ -589,78 +592,54 @@ Words/242:yrs
 ._Assistant
 .:$1,000 seems really high.
 ._Dean McCracken
->:I didn't realize you were the
-.:expert on what people could afford.
+>:Oh, does it? I didn't realize you
+>:were the expert on what people
+.:could afford.
 ._Assistant
 .:I'm not but--
 ._Dean McCracken
->:These high pledge amounts you're
->:whining about. That call script
->:you're reading. They were
->:scientifically calculated by
->:computers. Maybe you think you're
-.:smarter than computers?
+>:These pledge amounts you're whining
+>:about. That call script you're
+>:reading. They were scientifically
+>:calculated by computers. You think
+.:you're smarter than computers?
 ._Assistant
-.:No, but I--
+.:No, uh--
 ._Dean McCracken
->:That's interesting. Everyone who
->:wants to keep their job is on the
-.:phone right now.
-.\INT. Corporate mailroom - day
+>:Oh look. Everyone who wants to keep
+>:their job is on the phone right
+.:now.
+.\EXT. interstate 95
 >.ARTHUR "TUGGY" GALE, 30s, jeans, sneakers, overly loved
->.'Colby' sweatshirt. He stuffs letters into wall of mail
-..slots. His phone rings. Tuggy stealthily answers.
+..'Colby' sweatshirt. Answers cellphone.
 ._tuggy
-.:Colby? 
+.:Tuggy.  What's up?
 .\INTERCUT BETWEEN ASSISTANT and TUGGY
 ..Assistant reads mechanically from script.
 ._Assistant
->:Hi. I'm calling from Colby College.
-.:I wanted to remind Mr. Arthur--
+>:Hello. I'm calling from Colby
+.:College. I wanted to remind...
 ._Tuggy
->:Woah. It's Tuggy. Call me, Tuggy.
-.:Elizabeth? Is that you?
-..Assistant steals a glance at hovering Dean McCracken.
+.:Liz? Is that you?
 ._ASSISTANT
 .:Yes.
+..Assistant steals a glance at hovering Dean McCracken.
 ._Tuggy
->:How are you?! Can you believe it's
->:been 5 years? It seems like the 10
->:year reunion was just yesterday. Am
->:I gonna get to see you when I come
-.:up?
+>:Already on my way. Dragon lady
+>:having you do some last minute 
+.:begging before reunion kicks off? 
 ._Assistant
-.:I'll be here.
+.:Possibly.
 ..Dean McCracken gesticulates angrily, whisper yells.
 ._Dean McCracken
-.:Stick to the script!
+.:Stick to the script, idiot!
 ._aSSISTANT
->:I mean.... I wanted to remind you
+>:Um... Uh... I wanted to remind you
 >:that your 15 year reunion is coming
 .:up.
 ._Tuggy
->:Let me speed this up for you, Liz. 
-.:Yes, I'm still a lion tamer.
->.COPY LADY, 30s, special needs, stands behind bizhub, stares
-..at Tuggy in disbelief. Tuggy winks at her as he continues. 
-._Tuggy
->:Yes, I did receive my invitation to
->:the 15 year reunion. Yes, I will be
->:attending. And no, I won't be
-.:giving a dime to Colby College.
->.Assistant loses place. Dean McCracken gestures angrily.
-..Panicked Assistant picks random spot in script.
-._Assistant
->:Uh... Did you know Colby College is
->:a prestigious liberal arts college
-.:with an enrollment of 1825...
-._Dean McCracken
->:That's the wrong section, you
-.:idiot! 
-._Tuggy
->:I did know that. Remember how I
->:went to Colby? She's watching you,
-.:isn't she? Cough if she's there.
+>:She's watching you, isn't she.
+.:Cough if she's there.
 ._ASSISTANT
 .((cough)
 >.Dean McCracken looks at Assistant suspiciously, presses
@@ -672,22 +651,23 @@ Words/242:yrs
 .((whispered disgust)
 .:Tuggy.
 ._Tuggy
->:I can't in good conscience donate
->:to a business, yes I called Colby a
->:business, that relentlessly begs
->:money from poor people like me when
->:it already has over 1 billion
-.:dollars in its endowment. 
+>:Yes, I will be attending my
+>:reunion.  Yes I have already
+>:registered. Yes you have my correct
+>:address on file.  Yes, I am still
+>:employed as a world famous lion
+>:tamer. And no, I will not be
+.:donating a dime to Colby College. 
 ._Dean McCracken
 .:The nerve.
 ._Tuggy
 >:Excuse me? Is someone there? As I
->:do every reunion, I'll be
->:encouraging my classmates to
->:redirect their Colby donations to
->:my alternative fund raising
->:campaign which gives 100% of its
-.:proceeds to actual poor people!
+>:was saying.  I can't in good
+>:conscience donate to a multi
+>:billion dollar BUSINESS. Instead
+>:I'll be donating money to actual
+>:poor people and I'll encourage all
+.:my classmates to do the same.
 >.Dean McCracken pushes Assistant to the ground, takes over
 ..seat, yells into speaker phone. 
 ._Dean McCracken
@@ -698,34 +678,43 @@ Words/242:yrs
 .:You ungrateful loser!
 ._Tuggy
 >:Wow. You're really good with
-.:alumni. Can I give you some money.
+.:alumni.
 ._Dean McCracken
 >:You just keep pushing, don't you?
 >:You've got no idea what I'm capable
 .:of, Arthur.
 ._Tuggy
->:It's Tuggy. And that's a good
+>:The name's Tuggy. And that's a good
 .:question. What are you capable of?
->.Dean McCracken violently hangs up. Callers, now off phones,
+>.Dean McCracken violently hangs up. Callers, off phones,
 >.stare at her. Dean McCracken throws Assistant's pledge cards
 ..across the room. 
 ._Dean McCracken
->:Pick those up! And why aren't you
+>:Pick those up! Why aren't you
 .:people on the phone?!
+.\EXT. DRIVEWAY - Day
+>.Lance, tailored suit, carries too much luggage past parked
+..Porsche 911, climbs into idling limo.
+.\INT. Limo - DaY
+._Limo Driver
+.:Where to, sir?
+._LANCE
+.:I'm not entirely sure.
+..Lance hands driver reunion invite.
+._LANCE
+.: There's a map in this invitation.
 .\EXT. Interstate On-Ramp - DAY
 >.Eric holds cardboard sign: NEED RIDE TO COLLEGE REUNION. Car
 ..pulls over.
 ._Ride GIVER
 .:That's funny. Hop in.
-.\EXT. DRIVEWAY - Day
->.Lance, tailored suit, carries too much luggage past parked
-..Porsche 911. Approaches taxi idling at the curb.
-.\EXT. interstate 95 - montage
->.Tuggy drives rusting pickup on endless highway lined with
-..majestic eastern white pines.  He pushes in cassette tape.
+..As Eric, climbs in Tuggy's truck races by.  Follow truck.
+.\EXT. INTERSTATE 95 - Montage
+..Tuggy pushes in cassette tape.
 ..MUSIC CUE: Choral version of Colby's alma mater.
+|.- Tuggy vigorously sings along.
 |.- Percy looks out bus window. 
-|.- Lance looks out taxi window. 
+|.- Lance looks out limo window. 
 ..- Eric looks out car window.
 .\EXT. interstate 95, Waterville Maine Exit - Day
 >.Eric dropped off next to green info sign: COLBY COLLEGE -
@@ -735,32 +724,29 @@ Words/242:yrs
 >.Assistant drives Dean McCracken in golf cart. Dean McCracken
 ..snaps, points at ground. 
 ._Dean McCracken
-.:Brown spot. Brown spot!
+.:Brown spot. Stop! Brown spot!
 ..Assistant stops cart, gets out, sprays green paint on spot.
 ._Dean McCracken
->:While you're out put a deer and a
-.:couple squirrels up by that tree.
+>:While you're at it put up a deer
+.:and two squirrels by that tree.
 >.Back of cart is filled with fake woodland animals. Assistant
 >.wrestles with plastic deer. The voice of SECURITY GUARD TED,
 ..60s, crackles over Dean McCracken's walkie-talkie.
 ._Security Ted (V.O.)
-.:We've spotted dirty rat.
+.:We've spotted dirty rat, over.
 .\EXT. aDMINISTRATION BUILDING parking lot - DAY
 >.Security Ted, and SECURITY GUARD ROOKIE, 20s, slowly
-..approach plain white van. 
+..approach plain white van.
 .\inside VAN
->.Back is filled with surveillance equipment. CAMPUS BOMBER,
-..30s, watches building through binoculars.
+>.Outfitted with surveillance equipment. CAMPUS BOMBER, 30s,
+..spies on building with binoculars, security come into view.
 .\INTERCUT BETWEEN SECURITY AND campus bomber
-..Security Ted whispers loudly into shoulder radio.
-._Security Ted
-.:Repeat. Dirty rat's been spotted.
 ._Dean McCracken (v.o.)
->:I don't need play-by-play details,
-.:you idiots! Move in!
+>:I don't need play by play you
+.:idiots! Move in! Go!
 >.Security Rookie unholsters taser. Campus Bomber lowers
->.binoculars, spots security. He closes his eyes, shakes head,
-..puts hands up. Security Ted lunges... under van.
+>.binoculars, closes his eyes, shakes head, puts hands up.
+..Security Ted lunges... under van.
 .\UNDERNEATH VAN
 ..Security Ted flounders on stomach and gropes for something.
 ._Security Ted
