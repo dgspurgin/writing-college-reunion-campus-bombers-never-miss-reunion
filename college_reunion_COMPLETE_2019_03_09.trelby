@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:358
-Cursor/Column:9
+Cursor/Line:254
+Cursor/Column:10
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -651,23 +651,32 @@ Words/242:yrs
 .((whispered disgust)
 .:Tuggy.
 ._Tuggy
->:Yes, I will be attending my
->:reunion.  Yes I have already
->:registered. Yes you have my correct
->:address on file.  Yes, I am still
->:employed as a world famous lion
->:tamer. And no, I will not be
+>:Yes, I will be attending reunion. 
+>:Yes I have already registered. Yes
+>:you have my correct address on
+>:file.  Yes, you can inquire about
+>:my occupations.  Put me down for...
+.:a world famous lion tamer. 
+>.Assistant starts to write, stops when Dean McCraken whisper
+..yells.
+._DEAN MCCRACKEN
+.:Don't you dare write that.
+._TUGGY
+>:Is someone there? Anyway. Whee was
+>:I? Oh yes.  And no, I will not be
 .:donating a dime to Colby College. 
 ._Dean McCracken
 .:The nerve.
 ._Tuggy
->:Excuse me? Is someone there? As I
->:was saying.  I can't in good
->:conscience donate to a multi
->:billion dollar BUSINESS. Instead
->:I'll be donating money to actual
->:poor people and I'll encourage all
-.:my classmates to do the same.
+>:Excuse me?  What was that? As I was
+>:saying.  I can't in good conscience
+>:donate to a multi billion dollar
+>:BUSINESS, which is what Colby
+>:College is. Instead I'll be
+>:donating money to actual poor
+>:people and I'll again be
+>:encouraging all my classmates to do
+.:the same.
 >.Dean McCracken pushes Assistant to the ground, takes over
 ..seat, yells into speaker phone. 
 ._Dean McCracken
@@ -5219,23 +5228,15 @@ Words/242:yrs
 ..Tuggy rehangs his picture in the student pub.
 .\EXT. potter lake - day
 ..Tuggy scatters Craig's ashes.
-.\EXT. nice residential neighborhood - Day
->.Lance drives a Porsche 911. Tuggy, professionally dressed,
-..sits in passenger seat. Lance pulls over.
-._Lance
-.:I need to take care of something.
-..Lance gets out, crosses street. 
-._Lance
-.:Hey kids!
-..5th Grader #1 & #2 stand up and walk towards Lance.
-._5th Grader #1
->:Well look who's returned for a
-.:beating.
-..Lance punches both kids in the gut. They collapse, cry.
-._Lance
-.:I know where you live too.
-..Lance returns to car, loosens tie.
-._Tuggy
-.:Nice. 
-._Lance
-.:Now we can go to happy hour.
+.\INT. living room suburban house - day
+..Beth, Beth's son, Tuggy lounge.
+._TUGGY
+.:Kitty!  Come!
+>.Snaps fingers.  A few seconds later a cat jumps up on
+..Tuggy's lap.
+._BETH
+>:Wow, Tuggy, you really are a lion
+.:tamer.
+._TUGGY
+.:Amongst other things
+..Fake scares Beth's Son, who giggles.
