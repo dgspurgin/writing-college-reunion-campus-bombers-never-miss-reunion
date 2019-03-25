@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:254
-Cursor/Column:10
+Cursor/Line:587
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -805,47 +805,55 @@ Words/242:yrs
 ._Lance
 .:Yes.
 ._assistant
->:Our system must be on the fritz
-.:again.
+>:Hmmmm. Our system must be on the
+.:fritz.
 ..Dean McCracken walks up with clipboard.
 ._Dean McCracken
 >:Have you ever made a donation to
-.:the college?
+.:Colby before?
 ._Lance
 .:No.
 ._Dean McCracken
-.:That's why you can't find him.
-..Assistant flashes disagreeing look.
+>:That's why you can't find him. And
+>:I assume you couldn't be bothered
+>:to register ahead of time like we
+.:repeatedly asked you to do?
+._LANCE
+>:I'm sorry. I didn't. I didn't know
+.:I was coming until--
 ._Dean McCracken
->:And since you couldn't be bothered
->:to preregister, you'll have to stay
->:off campus.  Your class dorm is
-.:full.
+>:You'll have to stay downtown. Your
+.:class dorm is full.
 ._ASSISTANT
 .:It is? 
 ._Lance
->:I apologize for causing any
->:problems. I never do things last
->:minute like this. I'll pay any late
-.:fee you need to charge me.
+>:I completely understand. I'm happy
+>:to pay any late fees or whatever
+.:you need to charge me.
 ._ASSISTANT
-.:That's okay. We don't have any--
+.:That's okay. We don't have late--
 ._Dean McCracken
-.:It's $25. I mean $50.
+.:The late fee is $25. I mean $100.
 ._Lance
-.:I understand.
+.:That's fair.
 ._Dean McCracken
->:Of course it's $100 if you stay in
->:the dorms. Let me check my room
->:list one more time. I'd hate have
->:you stuck downtown while everybody
-.:else is up on campus having fun.
+>:Is it? Of course it's $200 if you
+.:stay in the dorms?
+..Lance is unphased by amount.
+._LANCE
+.:That would have been very fair too.
+._DEAN MCCRACKEN
+>:Let me check my room list one more
+>:time. I'd hate have you stuck
+>:downtown while everybody else is up
+.:on campus having fun.
 .((barely scans clipboard)
 >:How'd I miss this.  We've got 1
 .:room left.
 ..Assistant flashes skeptical look.
 ._Dean McCracken
-.:It's a quad, though. $500 a night?
+.:It's a quad, though. $1000 a night?
+..Assistant flashes stunned look.
 ._Lance
 .:I'll take it.
 ._Dean McCracken
@@ -858,7 +866,6 @@ Words/242:yrs
 .:No.
 ._Dean McCracken
 .:Yes!
-..Dean McCracken glares at Assistant.
 ._Lance
 .:How much do people normally give?
 ._Dean McCracken
@@ -984,7 +991,7 @@ Words/242:yrs
 >:That's because I didn't tell them. 
 .:I don't do registration.
 ._LANCE
-.:Don't you have to register?
+.:I think you have to register.
 ._TUGGY
 >:My parents paid Colby over
 .:$100,000. I think I'm registered.
