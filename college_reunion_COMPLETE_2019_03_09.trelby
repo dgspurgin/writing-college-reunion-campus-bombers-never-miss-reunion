@@ -41,7 +41,7 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:587
+Cursor/Line:767
 Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
@@ -422,38 +422,48 @@ Words/242:yrs
 >.LANCE WALICZEK, 30s, handsome, expensive executive suit,
 ..expensive briefcase, walks amongst skyscrapers.
 ._LANCE (V.O.)
->:My name is Lance Waliczek.  I'm the
->:Vice President of Risk Management
->:at NDA Financial.  You might think
->:that I'm a ruthless financial type
->:but you'd be wrong. I'm acutally
-.:quite the opposite. 
+>:This successful guy is Lance
+>:Waliczek.  He's the Vice President
+>:of Risk Management at NDA
+>:Financial.  He also happens to be
+.:me.
 .\INT. corporate offices - front desk - morning
 >.Lance exits elevator. He pauses, takes deep breath, fixes
 >.eyes downwards, thenbriskly walks through busy office. Many
 >.greet him with "Mr. Waliczek". Each time he nods slightly
 ..but keeps eyes fixed downwards.
 ._LANCE (V.O.)
->:I never had to climb my way to the
->:top because I was born on top. My
->:already on top parents made sure I
->:had every advantage, sent me to all
->:the right schools, enrolled me in
->:all the right activities. I knew
->:from a very early age that as long
->:as I stayed on course I'd be well
-.:off, which I did so I am.
+>:Now you might think I'm some
+>:ruthless finacial type, but
+>:actually, the opposite's true.  I'm
+>:not ruthless because I never had to
+>:climb my way to the top. I was born
+>:on top. My already on top parents
+>:made sure I had every advantage,
+>:sent me to all the right schools,
+>:enrolled me in all the right
+>:activities. I knew from a very
+>:early age that as long as I stayed
+>:on course I'd stay on top, which I
+.:did so I am.
 .\INT. Executive office - morning
 >.Lance now breathing heavily, shuts door quickly, stops to
 ..catch his breath.
 ._LANCE (V.O.)
->:I've got everything a person could
->:want. Except friends. I used to
->:have friends, or at least I think I
->:did. Honestly I've put so much
->:energy and focus into staying the
->:course that I've lost touch with
-.:others.
+>:I've got no complaints. Well mabye
+>:I've got one small complaint. When
+>:you're on top its easy to get
+>:people to obey you, but getting
+>:them to be your friends... that's
+>:turned out to be a little harder. A
+>:lot harder actually. I used to be
+>:close to people.  I thought we were
+>:friends.  But I've invested so much
+>:entergy and focus becoming a Vice
+>:President that I've lost touch.  I
+>:can hardly remember their names. 
+>:And I feel bad about. 'Cause lately
+.:I've been... I guess... Lonesly
 .\INT. corporate offices - Dusk
 >.Lance peeks out his office door, see wall clock reads
 ..7:01PM, hurriedly exits office and through empty offices.
@@ -964,48 +974,60 @@ Words/242:yrs
 ._TUGGY
 >:I get it. Beautiful day. Here. 
 .:Take one.
->.Tuggy hands Lance a green envelope. It reads "Tuggy's 15th
-..Reunion Alternative Fund Drive".
+>.Tuggy hands Lance a green envelope. It reads "15th Reunion
+..Alternative Fund Drive".
 ._Tuggy
-.:See you over there, Lance.
->.Tuggy drives off. Lance goes back to reading map. Tuggy
-..SCREECHES to halt.
+.:See you around, Lance.
+>.Tuggy SCREECHES off. Lance resumes map reading. Mumbles to
+..self.
+._Lance
+.:I hope I don't see him around. 
+>.Tuggy SCREECHES to halt, reverses. Lance has face of someone
+..who's been caught talking behind someones back.
 ._tuggy
->:By the way... our dorm's right
+>:By the way... our dorm is right
 .:behind you.
 >.Lance turns around and sees dorm with banner above entrance:
-..WELCOME CLASS OF '98. Tuggy honks repeatedly.
+..WELCOME CLASS OF '98. Tuggy honks a couple of times.
 ._CLASSMATES (O.S.)
 .:Tuggy!
+.\INT. Dorm upstairs hallway - DAY
+>.Lance walks down call as reunion goers pop in and out of
+>.rooms, laughing and chatting.  Lance half smiles at those he
+>.passes but he doesn't appear to really know anyone. He stops
+..at closed door at end of hallway, and keys in.
 .\INT. Dorm room - DAY
->.Lance's clothes arranged perfectly spaced in dorm armoire.
->.Lance methodically orders each item in packet on desk. KEY
->.TURNING in lock startles Lance. Tuggy bursts in with ratty
-..backpack and armload of ratty clothes.
+>.A typical empty door room with 2 sets of bunk beds, simple
+>.dressers, desks, and chairs.  Tuggy is emptying a large
+>.black trash bag of clothes onto the floor. He looks up and
+..flashes a huge grin.
 ._TUGGY
 .:Lance?! What's up, roomie!
+>.Lance rushes over, puts arm around Lance, steers him inside.
+..Lance displays painful, faked smile 
 ._Lance
 >:They didn't tell me I was going to
 .:have a roommate.
 ._TUGGY
->:That's because I didn't tell them. 
-.:I don't do registration.
+>:That's because they didn't know. I
+.:didn't tell them. 
 ._LANCE
-.:I think you have to register.
+>:I think you have to register If
+.:you're gonna--
 ._TUGGY
 >:My parents paid Colby over
 .:$100,000. I think I'm registered.
 ._Lance
 .:How'd you get in?
 ._TUGGY
->:Master key. Look. You didn't come
->:to reunion to hang out by yourself,
-.:did you?
+>:Master key. Still works. Look. You
+>:didn't come to reunion to hang out
+.:by yourself, did you?
 ._Lance
 .:No.
 ._TUGGY
-.:So win-win. Top bunk!
-..Tuggy flings clothes onto top bunk.
+.:So I'm doing you a favor! Top bunk!
+..Tuggy tosses a handful of his jumk on bed.
 .\INT. Dorm upstairs hallway - DAY
 >.Percy walks down empty hallway. He overhears classmates
 ..conversing in a room, approaches open door.
@@ -1018,7 +1040,7 @@ Words/242:yrs
 ..Security Rookie jumps out, unholsters taser. Alumni gather.
 ._TUGGY (O.S.)
 .:Eric Davis?!
-..Tuggy is leaning out dorm window. 
+..Tuggy hollaring out dorm window. 
 ._Tuggy
 .:Don't move! I'm coming down!
 ._Eric
@@ -1048,9 +1070,6 @@ Words/242:yrs
 ._CLASSMATE #1
 >:Of course he knows the homeless
 .:guy.
-._CLASSMATE #2
->:Looks like another Tuggy fund drive
-.:is under way.
 .\INT. Dorm room - DAY
 ..Tuggy exuberantly pulls Eric into room.
 ._TUGGY
@@ -1138,20 +1157,35 @@ Words/242:yrs
 .:their calendar?
 ._LANCE
 .:I better go.
->.Lance turns to leave. Tuggy puts arm around Lance, pulls him
-..back. Puts other arm around Eric.
+..Lance sheepishly exits.
 ._TUGGY
->:Lance is right. It's time to go.
->:For the next 40 hours we aren't
-.:just college students.
+>:Man that guy is terrified. We
+>:better look out for him this
+.:weekend.
 ._Eric
-.:Tuggy, we aren't college students.
+>:Yup. Better look out for the highly
+>:successful guy in the nice clothes.
+>:Wouldn't want anything bad
+.:happening to him.  
 ._Tuggy
->:Exactly. We're college roommates!
-.:To the welcoming party, roomies!
-..Tuggy steers group towards door. Percy follows.
+>:You are still a sarcastic son of
+.:a...
+._Eric
+>:Why thank-you kind sir.  Lets head
+>:downstairs.  I don't want to get
+.:yelled at by Lance's watch
+>.They stand, Tuggy puts arm around Eric, they exit. Percy
+..follows.
 .\INT. Dorm Lobby - dusk
-.\Welcome Table
+>\###### --- HERE IS WHERE LANCE SHOULD BE BY HIMSELF TO START
+>\SCENE - HAS SOME AWKWARDNESS WHERE HE DOESN'T KNOW ANYONE
+>\AND ONLY THEN DOES TUGGY ET ALL COME DOWN.  DURNING THIS
+>\PARTY IS WHEN TUGGY BRINGS LANCE UNDER WING.  FEEL LANCE
+>\FREEKING OUT SO WE FEEL JOY OF TUGGY SAVING THEM.  LANCE HAS
+>\TO BE SWEATING - NOT KNOWING ANYONE - THEN ALZHEIMERS
+.\SCENE... ONLY THEN DOES LANCE SAVE HIM.
+..
+..Welcome Table
 >.Large common room decorated as class of '98 reunion
 >.headquarters. CLASS PRESIDENT JUDE greets classmates at
 ..check-in table.
